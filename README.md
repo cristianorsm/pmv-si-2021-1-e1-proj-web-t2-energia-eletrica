@@ -1,19 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+` Projeto: Aplicações WEB`
 
-`SEMESTRE`
+`1 SEMESTRE`
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Baltazar Leão Reis
+- Carlos Henrique Rodrigues Silva
+- Cristiano Ribeiro dos Santos Mateus
+- Maria Clara Bethonico Terra
+- Robert Moises da Costa Pena
+- Roberto Santana Soares
 
 ## Professor
 
-- Mestre Yoda
+- Kleber Jacques Ferreira de Souza
 
 # Documentação
 
