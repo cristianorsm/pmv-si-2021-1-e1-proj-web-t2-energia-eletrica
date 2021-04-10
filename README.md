@@ -9,7 +9,6 @@
 ## Integrantes
 
 - Baltazar Leão Reis
-- Carlos Henrique Rodrigues Silva
 - Cristiano Ribeiro dos Santos Mateus
 - Maria Clara Bethonico Terra
 - Robert Moises da Costa Pena
