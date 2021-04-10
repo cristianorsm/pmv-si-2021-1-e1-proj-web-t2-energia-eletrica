@@ -36,9 +36,13 @@ A aplicação da Web “Nome do projeto”, facilitaria no conhecimento de cada 
 Embora todas as pessoas possam se beneficiar de soluções para a moderação do uso de energia elétrica, na residência, o foco deste trabalho é o consumidor responsável pelo orçamento familiar. O intuito é disponibilizar uma ferramenta de fácil uso, informativa que promoveria a otimização de uso dos aparelhos elétricos, residenciais.
 
 [1] Anuário Estatístico de energia Elétrica 2020, EPe. Disponível em: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/topico-168/EPEFactSheetAnuario.pdf. Acesso em 10 abril 2021.
+
 [2] O watt-hora é a medida de energia usualmente utilizada em eletrotécnica. Um watt-hora é a quantidade de energia utilizada para alimentar uma carga com potência de um watt pelo período de uma hora. O valor de 1 Wh é equivalente a 3,6×103 J =3,6 kJ =3600 J. 1 terawatt-hora (TWh) = 1 trilhão de watt-hora.
+
 [3] Gigawatt-hora, abreviado como GWh, é uma unidade de energia que representa um bilhão (1 000 000 000) de watt-hora e é equivalente a um milhão de quilowatt-hora. Os gigawatts-hora são frequentemente usados como uma medida da produção de grandes usinas de energia elétrica.
+
 [4] O quilowatt-hora é uma unidade de energia igual a 3600 quilojoules. O quilowatt-hora é comumente usado como uma unidade de cobrança da energia entregue aos consumidores pelas concessionárias de energia elétrica.
+
 [5] As emissões de Gases de Efeito Estufa (GEE) provenientes da geração elétrica no Brasil totalizaram 56,3 milhões de toneladas (Mt) de CO2 em 2019, quase 7% superior a 2018.
 
 
