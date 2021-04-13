@@ -3,16 +3,14 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A energia elétrica pode ser considerada um dos serviços essenciais que mais impactam nos gastos totais de uma residência, nos dias atuais. E com isso, boa parte do orçamento das famílias do sudeste brasileiro destinam-se ao consumo de energia elétrica, consumo esse que se torna cada vez maior com o surgimento de novas tecnologias e utensílios eletrônicos.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+No ano de 2020, com o desencadeamento da Covid-19, observou-se que o  consumo residencial aumentou, devido a medidas protetivas instauradas pelo Governo brasileiro, como o isolamento e distanciamento social, que alocaram o ambiente de trabalho para a residência particular. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Saber identificar  de forma precisa e clara a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução  para identificar os principais ofensores de consumo, adequando a sua utilização em relação ao nível de consumo. Porém, realizar este acompanhamento, pode exigir conhecimentos técnicos, ausentes no conhecimento do usuário habitual, além de ser uma tarefa trabalhosa.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme exposto, o problema que se busca resolver com este projeto é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
+
 
 ## Objetivos
 

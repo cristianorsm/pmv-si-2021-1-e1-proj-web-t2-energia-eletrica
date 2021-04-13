@@ -12,7 +12,6 @@
 - Cristiano Ribeiro dos Santos Mateus
 - Maria Clara Bethonico Terra
 - Robert Moises da Costa Pena
-- Roberto Santana Soares
 
 ## Professor
 
