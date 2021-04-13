@@ -39,11 +39,6 @@ Objetivos Específicos:
  
 ·   	Promover educação do usuário através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
 
-
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 O Anuário Estatístico de Energia Elétrica 2020 (ano base 2019), publicado pela Empresa de Pesquisa Energética[1], empresa pública vinculada ao Ministério de Minas e Energia, traz as principais informações sobre o consumo de energia elétrica no Brasil, por região. O anuário declarou que o consumo total de energia elétrica no Brasil foi de 482 TWh[2], a classe residencial representa o maior número de unidades consumidoras de eletricidade do país representando 142.781GWh[3]. A região Sudeste, com a população de 88.4 milhões apresentou o consumo per capita de 2.698 kWh[4] por habitante, com concentrações nos estados do Rio de Janeiro e São Paulo.
