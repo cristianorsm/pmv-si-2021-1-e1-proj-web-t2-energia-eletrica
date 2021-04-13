@@ -1,6 +1,17 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente é inimaginável a vida sem energia elétrica. Eletricidade está amplamente presente tanto em processos produtivos industriais quanto na comodidade de nossos lares. Portanto, direta ou indiretamente, praticamente todo cidadão deste planeta é um consumidor de energia elétrica.
+ 
+A cada dia novos aparelhos, impulsionados por energia elétrica, são criados visando melhorar a qualidade de vida e bem-estar dos cidadãos. Entretanto, estes mesmos dispositivos que simplificam nossas vidas, nos fazem cada vez mais dependentes da energia elétrica. Desta forma, é notório o aumento progressivo do consumo de eletricidade em nossos lares ao longo dos anos. E, na medida que o processo de modernização permanece acontecendo, é fácil prever a tendência de um consumo ainda maior de eletricidade no futuro.
+ 
+No Brasil, a maior parte da energia elétrica produzida e distribuída para consumo pelo cidadão comum é produzida em usinas hidroelétricas, consequência da vasta rede fluvial que o país possui. Assim, segundo dados da Agência Nacional de Energia Elétrica (ANEEL) relativos a produção de energia elétrica, 62% da capacidade instalada em operação no país vem das hidrelétricas, 28% das termelétricas (combustíveis fósseis, carvão mineral, gás natural, nuclear e biomassa) e os 10% restantes vêm de usinas eólicas e da importação de outros países.
+ 
+Em relação ao custo da energia elétrica no Brasil, um ranking mundial preparado pela Federação das Indústrias do Rio de Janeiro (Firjan), em janeiro de 2017, demonstrou que nosso país pratica o sexto maior preço mundial do megawatt/hora (402,3 Reais/MW/h). E que, além da indesejada sexta posição, este valor fica 46% acima da média internacional.
+ 
+Desta forma, o consumo racional de energia elétrica é importante tanto por motivos financeiros (evitar gastos excessivos e desnecessários) quanto por motivos ambientais, pois a geração de energia depende da exploração de recursos naturais.
+ 
+Acreditamos que a melhor forma do cidadão comum economizar energia elétrica, é através do conhecimento detalhado dos hábitos de consumo praticados localmente em seu próprio lar. Conhecer o consumo energético de cada aparelho doméstico assim como o seu grau de utilização mensal pode auxiliar o usuário de eletricidade e sua família a identificar potenciais focos de desperdício, assim como otimizar o uso de utensílios indispensáveis. Além disso, é importante considerar a característica intrinsecamente dinâmica do consumo elétrico de um domicílio durante determinado período de tempo. Desta forma, o conhecimento dos padrões dinâmicos de consumo por aparelho pode também ajudar com uma maior previsibilidade dos gastos mensais familiares. 
+O presente projeto visa a formalização das bases para o desenvolvimento de uma aplicação web que proporcione ao cidadão comum um melhor gerenciamento do consumo de energia elétrica em seu próprio domicílio.
 
 ## Problema
 A energia elétrica pode ser considerada um dos serviços essenciais que mais impactam nos gastos totais de uma residência, nos dias atuais. E com isso, boa parte do orçamento das famílias do sudeste brasileiro destinam-se ao consumo de energia elétrica, consumo esse que se torna cada vez maior com o surgimento de novas tecnologias e utensílios eletrônicos.
@@ -14,9 +25,21 @@ Conforme exposto, o problema que se busca resolver com este projeto é, como o c
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral:
+ 
+O presente projeto visa desenvolver um software para auxiliar no registro e controle dinâmico, pelo usuário, do consumo de energia elétrica em seu próprio domicílio. Além de informar de forma consciente sobre métodos para economizar e otimizar o uso desses eletrodomésticos.
+ 
+Objetivos Específicos:
+ 
+·   	Identificar / reconhecer os padrões de consumo de energia por aparelho doméstico em cada domicílio;
+ 
+·   	Possibilitar a adequação do consumo de energia elétrica domiciliar de acordo com os limites das bandeiras tarifárias;
+ 
+·   	Conscientizar sobre a economia elétrica em escala;
+ 
+·   	Promover educação do usuário através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
