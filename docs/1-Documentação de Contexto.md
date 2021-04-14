@@ -33,7 +33,7 @@ Objetivos Específicos:
  
 ·   	Identificar / reconhecer os padrões de consumo de energia por aparelho doméstico em cada domicílio;
  
-·   	Possibilitar a adequação do consumo de energia elétrica domiciliar de acordo com os limites das bandeiras tarifárias;
+·   	Fonecer métricas que auxiliem ao usuário a adequação do consumo de energia elétrica em seu domicílio de acordo com os limites das bandeiras tarifárias;
  
 ·   	Conscientizar sobre a economia elétrica em escala;
  
