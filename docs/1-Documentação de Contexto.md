@@ -27,7 +27,7 @@ Conforme exposto, o problema que se busca resolver com este projeto é, como o c
 
 Objetivo Geral:
  
-O presente projeto visa desenvolver um software para auxiliar no registro e controle dinâmico, pelo usuário, do consumo de energia elétrica em seu próprio domicílio. Além de informar de forma consciente sobre métodos para economizar e otimizar o uso desses eletrodomésticos.
+O presente projeto visa desenvolver um aplicação web para auxiliar no registro e controle dinâmico, pelo usuário, do consumo de energia elétrica em seu próprio domicílio. Além de informar, de forma consciente, sobre métodos para economizar e otimizar o uso desses eletrodomésticos.
  
 Objetivos Específicos:
  
