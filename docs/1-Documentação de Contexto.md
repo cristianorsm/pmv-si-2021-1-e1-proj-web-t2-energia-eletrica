@@ -1,4 +1,4 @@
-# Introdução
+# **1 Introdução**
 
 Atualmente é inimaginável a vida sem energia elétrica. Eletricidade está amplamente presente tanto em processos produtivos industriais quanto na comodidade de nossos lares. Portanto, direta ou indiretamente, praticamente todo cidadão deste planeta é um consumidor de energia elétrica.
  
@@ -14,7 +14,7 @@ Acreditamos que a melhor forma do cidadão comum economizar energia elétrica, �
 
 O presente projeto visa a formalização das bases para o desenvolvimento de uma aplicação web que proporcione ao cidadão comum um melhor gerenciamento do consumo de energia elétrica em seu próprio domicílio.
 
-## Problema
+## **Problema**
 
 A energia elétrica pode ser considerada um serviço essencial que representa grande impacto nos gastos totais de uma residência. Significando que boa parte do orçamento das famílias do Sudeste brasileiro, referem-se aos hábitos diários de consumo de energia elétrica, consumo esse que se torna cada vez mais oneroso com o advento de novas soluções, alimentadas por energia elétrica.
 
@@ -25,7 +25,7 @@ Saber identificar de forma precisa e clara a quantidade em Reais(R$) destinados 
 Conforme exposto, o problema que se busca resolver com este projeto é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
 
 
-## Objetivos
+## **Objetivos**
 
 Objetivo Geral:
  
@@ -41,7 +41,7 @@ Objetivos Específicos:
  
 ·   	Promover educação do usuário através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
 
-## Justificativa
+## **Justificativa**
 
 O Anuário Estatístico de Energia Elétrica 2020 (ano base 2019), publicado pela Empresa de Pesquisa Energética, empresa pública vinculada ao Ministério de Minas e Energia, traz as principais informações sobre o consumo de energia elétrica no Brasil, por região. O anuário declarou que o consumo total de energia elétrica no Brasil foi de 482 TWh[1], a classe residencial representa o maior número de unidades consumidoras de eletricidade do país representando 142.781GWh[2]. A região Sudeste, com a população de 88.4 milhões apresentou o consumo per capita de 2.698 kWh[3] por habitante, com concentrações nos estados do Rio de Janeiro e São Paulo.
 
@@ -62,6 +62,6 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 [4] As emissões de Gases de Efeito Estufa (GEE) provenientes da geração elétrica no Brasil totalizaram 56,3 milhões de toneladas (Mt) de CO2 em 2019, quase 7% superior a 2018.
 
 
-## Público-Alvo
+## **Público-Alvo**
 
 O público-alvo desta aplicação da Web seriam homens e mulheres, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas.  
