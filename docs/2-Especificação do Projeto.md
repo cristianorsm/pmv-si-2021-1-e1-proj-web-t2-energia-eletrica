@@ -1,4 +1,4 @@
-# **2 Especificação do Projeto**
+# **2. Especificação do Projeto**
 
  
 Públicos atendidos:
@@ -55,14 +55,21 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+
+Bruno Silva, 58 anos, Advogado e autônomo na cidade de Montes Claros, Minas Gerias, utiliza os meios de mídia E-mail, Facebook, WhatsApp e Sistemas Jurídicos Eletrônicos, para o trabalho. Deseja criar um escritório em sua residência, totalmente adaptado. Isso inclui, a possibilidade de uso dos meios de comunicação, de forma prática e eficiente. Um espaço separado e dedicado na residência, adaptado para o uso de computadores, impressora, televisão, máquina de café, com boa iluminação e ventilado. Porém, a adaptação do escritório em casa, exige o uso de diversos equipamentos e utensílios que utilizam constantemente energia elétrica. Consequentemente, os gatos mensais referentes ao uso desses equipamentos tornaram-se demasiadamente onerosos. Logo, Bruno está buscando meios de economizar além de obter informações mais precisas sobre os utensílios elétricos e suas taxas de consumo elétrico. A aplicação da Web irá auxiliar no registro de cada utensílio e por seguinte na identificação dos padrões de consumo de energia, de forma individual, irá possibilitar que ele próprio adeque este consumo, baseando-se nos limites das bandeiras tarifárias, além de conscientizar sobre a economia elétrica em escala, ao promover educação de Bruno através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
+
 ## **Histórias de Usuários**
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Doravante à análise das personas identificadas, com a compreensão de seus hábitos diários, foram registradas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |..PARA ... `MOTIVO/VALOR`..                     |
+|--------------------|------------------------------------|----------------------------------------        |
+|Bruno Silva         | Manter o registro de aparelhos     | Entender o consumo individual, de cada aparelho|
+|Bruno Silva         | Entender os valores de cobrança    | Otimizar e economizar mensalmente na conta     |
+|Nome                |                                    |                                                |  
+|Nome                |                                    |                                                |
+|                    |                                    |                                                |                 
+|                    |                                    |                                                |    
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
