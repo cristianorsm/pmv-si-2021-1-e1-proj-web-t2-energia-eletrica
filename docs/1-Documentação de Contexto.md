@@ -1,4 +1,4 @@
-# **1 Introdução**
+# **1. Introdução**
 
 Atualmente é inimaginável a vida sem energia elétrica. Eletricidade está amplamente presente tanto em processos produtivos industriais quanto na comodidade de nossos lares. Portanto, direta ou indiretamente, praticamente todo cidadão deste planeta é um consumidor de energia elétrica.
  
@@ -65,4 +65,89 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 ## **Público-Alvo**
 
 O público-alvo desta aplicação da Web seriam homens e mulheres, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
-Consumidores de todas as classes sociais, que em suas  residências      utilizam eletrodomésticos da linha Branca,  produtos como refrigeradores, lavadoras, fogões,  lava louças, micro-ondas, freezers,  entre outros,  da linha    Marrom ou eletrodomésticos de entretenimento como por exemplo  TVs,  home-theaters, aparelhos de áudio,  câmeras digitais,  videogames,  e por último os  eletrodomésticos portáteis ou seja  aqueles que podem ser facilmente transportados como   barbeadores, batedeiras de bolos, cafeteiras, espremedores de frutas, ferros de passar, fritadeiras,  liquidificadores, sanduicheiras, secadores de cabelo, ventiladores.
+*Consumidores de todas as classes sociais, que em suas  residências      utilizam eletrodomésticos da linha Branca,  produtos como refrigeradores, lavadoras, fogões,  lava louças, micro-ondas, freezers,  entre outros,  da linha    Marrom ou eletrodomésticos de entretenimento como por exemplo  TVs,  home-theaters, aparelhos de áudio,  câmeras digitais,  videogames,  e por último os  eletrodomésticos portáteis ou seja  aqueles que podem ser facilmente transportados como   barbeadores, batedeiras de bolos, cafeteiras, espremedores de frutas, ferros de passar, fritadeiras,  liquidificadores, sanduicheiras, secadores de cabelo, ventiladores.*
+
+### *Stakeholders*
+
+De acordo R. Edward Freeman e John F. Mcvea (2001), o termo *stakeholders* possui o objetivo de especificar todos os grupos ou partes interessadas sem os quais uma empresa deixaria de existir. Nessa especificação, estariam, por exemplo, os acionistas, os empregados, os fornecedores, os clientes, os credores e a sociedade. Atualmente, a definição mais utilizada para o conceito de *stakeholders* ou de partes interessadas é a de Freeman (2010), segundo quem o termo stakeholder foi definido, em um amplo sentido estratégico, como qualquer grupo ou indivíduo que pode afetar ou é afetado pelo alcance dos objetivos da empresa (Freeman et al., 2010).
+
+Segundo Freeman (1984), para o desenvolvimento de estratégias, a organização deve se atentar na busca de respostas para três perguntas básicas sobre seus *stakeholders*: Quem são os _stakeholders_? O que eles querem? Como eles tentarão atingir suas metas e satisfazer seus interesses? 
+
+O presente projeto, com o intuito de realizar os objetivos propostos, fez o mapeamento das pessoas e/ou comunidade afetadas pela criação da aplicação da Web. Os *stakeholders* levantados foram classificados primeiramente em os que foram impactados pelo projeto (**_Stakeholders_ de projeto**) e os que foram impactados pelo produto (**_Stakeholders_ de produto**).
+
+**_Stakeholders_ de Produto** são todos aqueles afetados pela Aplicação da Web a ser desenvolvida. Os principais Stakeholders dessa classe são o **Público-Alvo**, como definido anteriormente. Porém, além deles também temos todos os que interagem, diretamente ou não, com a aplicação, trabalham utilizando os resultados obtidos pelo público-alvo, ou serão impactados pelos deploys e pela operação do produto. E são eles:
+
+•	Analista de Sistemas;
+
+•	Analista de Testes;
+
+•	Analista do Banco de dados;
+
+•	Desenvolvedor front-end;
+
+•	Gerente de Projeto;
+
+•	Web designer;
+
+Os **_Stakeholders_ de projeto** são todos aqueles que tem interesse no sucesso do projeto no qual a aplicação da Web está sendo desenvolvida. É de responsabilidade deles o cumprimento de prazos, custos determinados e como a aplicação está sendo desenvolvida. E são eles:
+
+•	Analista do Banco de dados;
+
+•	Analista de Sistemas;
+
+•	Gerente de Projeto;
+
+Após a classificação de impacto por produto ou projeto, os Stakeholders foram classificados pelo grau de envolvimento, necessários, de cada um deles. Foram utilizados **três graus** de envolvimento:
+
+**1-Grau de dependência:** onde são identificados aqueles pelos quais a aplicação da Web requer a interferência direta, para a sua continuidade. Sendo eles:
+
+•	Agência Nacional de Energia Elétrica- ANEEL;
+
+•	Analista de Sistemas;
+
+•	Analista do Banco de dados;
+
+•	Analista de Testes;
+
+•	Desenvolvedor front-end;
+
+•	Distribuidoras do setor elétrico da região Sudeste do Brasil;
+
+•	Fabricantes utensílios elétricos;
+
+•	Gerente de Projeto;
+
+•	Público-Alvo;
+
+•	Web Designer;
+
+**2-Grau de participação:** são todos aqueles que devem ser consultados para a tomada de decisões, que demandam um conhecimento técnico específico. Essas decisões são relacionadas apenas às áreas de especialidade. Eles são:
+
+•	Desenvolvedor front-end;
+
+•	Fabricantes utensílio elétricos;
+
+•	Web designer;
+
+**3-Grau de interferência:** são todos aqueles que tomam a decisão final em relação a algum assunto.
+
+•	Gerente de Projeto;
+
+•	Público-Alvo;
+
+Agora que foram mapeados e classificados os _Stakeholders_, deve-se explanar qual o envolvimento e as necessidades de cada um deles. Com isso, criamos uma tabela simples, como no exemplo abaixo:
+
+| _Stakeholder_ | Tipo de _Stakeholder_ | Grau de Envolvimento | Quando deve haver o envolvimento | Necessidades |
+| --------------| --------------------- | -------------------- | -------------------------------- | ------------ |
+| Agência Nacional de Energia Elétrica- ANEEL | N/A | Dependência | Durante pesquisas/inclusão de dados | N/A |
+| Analista de sistemas | N/A | Dependência | Durante pesquisas/inclusão de dados | Consultado para a compreensão da necessidade de negócio do cliente, para especificar, por escrito, o que precisa ser alterado no projeto; |
+| Analista de Testes | Produto | Dependência | Sempre que necessário testar novas atualizações | Consultado para a validação do projeto, ou seja, verifica se a etapa de codificação cumpriu o que foi solicitado na especificação do analista de sistemas, além de verificar se há erro na aplicação; |
+| Analista do Banco de dados | Projeto/Produto | Dependência | Sempre que necessário para a alteração/inclusão de dados | Consultado para definir a arquitetura do bando de dados em caso se alterações; Consultado para a criação dos comandos para tratamento de rotinas mais complexas de manipulação de dados; |
+| Desenvolvedor front-end | Produto | Participação/Dependência | Sempre que necessárias atualizações | Criar uma boa experiência do usuário; Garantir boa performance usuário/servidor; Consultado para alterar as especificações de negócio do aplicativo em código |
+| Distribuidoras do setor elétrico da região Sudeste do Brasil | N/A | Dependência | Durante pesquisas/inclusão de dados | N/A |
+| Fabricantes aparelhos (utensílios) elétricos | Produto | Dependência | Durante pesquisas/inclusão de dados | N/A |
+| Gerente de Projeto | Projeto/Produto | Interferência/Dependência | Sempre que necessário  | Decidir prioridades; Participar das demonstrações do produto |
+| Público-Alvo | Produto | Interferência/Dependência | Durante pesquisas | Aplicação de fácil uso; Lista/modelos aparelhos eletrônicos; Informação sobre tarifas; Guia de boas práticas; |
+| Web Designer| Produto | Participação | Quando houver alguma atualização do produto | Quer um documento de especificação, para elaborar todo o desenho das interfaces do aplicativo, priorizando a usabilidade; |
+
+Com o mapeamento dos _stakeholders_, o presente projeto pode reconhecer com quais públicos, organizações e especialistas a aplicação da Web se relaciona, qual o tipo de relação e expectativas geradas, que permitem identificar quais exigem um contato estratégico.
