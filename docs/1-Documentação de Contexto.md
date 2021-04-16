@@ -16,13 +16,13 @@ O presente projeto visa a formalização das bases para o desenvolvimento de uma
 
 ## **Problema**
 
-A energia elétrica pode ser considerada um serviço essencial que representa grande impacto nos gastos totais de uma residência. Significando que boa parte do orçamento das famílias do Sudeste brasileiro, referem-se aos hábitos diários de consumo de energia elétrica, consumo esse que se torna cada vez mais oneroso com o advento de novas soluções, alimentadas por energia elétrica.
+A energia elétrica pode ser considerada um serviço essencial que representa grande impacto nos gastos totais de uma residência. Significando que boa parte do orçamento das famílias do Sudeste brasileiro, referem-se aos hábitos diários de consumo de energia elétrica, consumo esse que se torna cada vez mais oneroso com o advento de novas soluções tecnológicas.
 
-No ano de 2020, com o desencadeamento da Covid-19, observou-se que o consumo residencial aumentou, devido a medidas protetivas instauradas pelo Governo brasileiro, como o isolamento e distanciamento social, que alocaram o ambiente de trabalho para a residência particular. 
+No ano de 2020, com o desencadeamento da Covid-19, observou-se que o consumo residencial aumentou devido às medidas protetivas instauradas pelo Governo Brasileiro, como o isolamento e distanciamento social, que alocaram o ambiente de trabalho para a residência particular. 
 
-Saber identificar de forma precisa e clara a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução para identificar os principais ofensores de consumo, adequando a sua utilização em relação ao nível de consumo. Porém, realizar este acompanhamento, pode exigir conhecimentos técnicos, ausentes no conhecimento do usuário habitual, além de ser uma tarefa trabalhosa.
+Logo, saber identificar de forma clara e precisa a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução para identificar os perpretores de um dispêndio alto, e assim agir para a adequação do uso tendo como base, o nível de consumo. Porém, realizar este acompanhamento pode demandar tempo além de exigir conhecimentos técnicos, sobre os aparelhos eletrônicos, dificultando na missão de controle, pelo usuário habitual de energia elétrica.
 
-Conforme exposto, o problema que se busca resolver com este projeto é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
+Desse modo, o problema que se busca resolver é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
 
 
 ## **Objetivos**
@@ -43,15 +43,19 @@ Objetivos Específicos:
 
 ## **Justificativa**
 
-O Anuário Estatístico de Energia Elétrica 2020 (ano base 2019), publicado pela Empresa de Pesquisa Energética, empresa pública vinculada ao Ministério de Minas e Energia, traz as principais informações sobre o consumo de energia elétrica no Brasil, por região. O anuário declarou que o consumo total de energia elétrica no Brasil foi de 482 TWh[1], a classe residencial representa o maior número de unidades consumidoras de eletricidade do país representando 142.781GWh[2]. A região Sudeste, com a população de 88.4 milhões apresentou o consumo per capita de 2.698 kWh[3] por habitante, com concentrações nos estados do Rio de Janeiro e São Paulo.
+O Anuário Estatístico de Energia Elétrica 2020 (ano base 2019), publicado pela Empresa de Pesquisa Energética, empresa pública vinculada ao Ministério de Minas e Energia, traz as principais informações sobre o consumo de energia elétrica no Brasil, por região. O anuário declarou que o consumo total de energia elétrica no Brasil foi de 482 TWh[1], a classe residencial representa o maior número de unidades consumidoras de eletricidade do país representando 142.781GWh[2]. A região Sudeste, com a população de 88.4 milhões apresentou o consumo per capita de 2.698 kWh[3] por habitante, com concentrações nos estados do Rio de Janeiro e São Paulo.  
 
-A propagação da Covid-19 apresentou diversos reflexos na economia do país, como o aumento dos reajustes tarifários e no consumo residencial. Com mais pessoas em casa em razão da pandemia, o consumo de energia residencial cresceu 4,1%, para 148.223 GWh. Ou seja, esse foi o único segmento que registrou crescimento em 2020.
+>A Região Sudeste também se destaca no país nos prismas da geração, do consumo, da transmissão e da distribuição de energia elétrica. O Sudeste responde por cerca de 50% da carga do Sistema Integrado Nacional (SIN)[4], sendo a principal região consumidora de energia do país.
 
-Medidas voltadas para a redução do consumo de energia nunca foram tão necessárias para a economia individual além de contribuir invariavelmente para o meio ambiente[4].
+Observa-se então que a região Sudeste engloba de forma significativa porcentagens altas de consumo elétrico, por habitante, tendo sido responsável por mais de 50% do consumo nacional de eletricidade. Portanto, a aplicação da Web se propõe a atender a população desta Região, uma vez que atenderia incialmente a um significativo número de usuários interessados.
 
-A aplicação da Web “Nome do projeto”, facilitaria no conhecimento de cada aparelho da sua casa. O usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia. Considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). Ao final, a aplicação da web geraria o consumo total, além de dispor de sugestões de uso eficiente dos aparelhos.
+Sobre o quesito do consumo residencial, a propagação da Covid-19 apresentou diversos reflexos na economia do país, como o aumento dos reajustes tarifários e no consumo residencial. Com mais pessoas em casa em razão da pandemia, o consumo de energia residencial cresceu 4,1%, para 148.223 GWh. Ou seja, esse foi o único segmento que registrou crescimento em 2020.
 
-Embora todas as pessoas possam se beneficiar de soluções para a moderação do uso de energia elétrica, na residência, o foco deste trabalho é o consumidor responsável pelo orçamento familiar. O intuito é disponibilizar uma ferramenta de fácil uso, informativa que promoveria a otimização de uso dos aparelhos elétricos, residenciais.
+Portanto, medidas voltadas para a redução do consumo de energia nunca foram tão necessárias para a economia individual além de contribuir invariavelmente para o meio ambiente[5].
+
+A aplicação da Web “Nome do projeto”, facilitaria no conhecimento de cada aparelho eletrônico na residência. O usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). Ao final, a aplicação da web, baseando-se nesses valores, calcularia o consumo total ou o consumo por aparelho eletrônico, além de dispor de sugestões de uso eficiente. Essas sugestões seriam providas por informativos sobre como otimizar o uso diário dos eletrônicos, com mudanças nos hábitos, como por exemplo, a valorização da iluminação natural, a substituição da lâmpada comum para a de Led e a remoção de aparelhos eletrônicos da tomada.
+
+Embora todas as pessoas possam se beneficiar de soluções para a moderação do uso de energia elétrica, na residência, o foco deste trabalho é o consumidor responsável pelo orçamento familiar. O intuito é disponibilizar uma ferramenta de fácil uso, informativa que promoveria o uso consciente dos aparelhos à base de energia elétrica, residenciais.
 
 [1] O watt-hora é a medida de energia usualmente utilizada em eletrotécnica. Um watt-hora é a quantidade de energia utilizada para alimentar uma carga com potência de um watt pelo período de uma hora. O valor de 1 Wh é equivalente a 3,6×103 J =3,6 kJ =3600 J. 1 terawatt-hora (TWh) = 1 trilhão de watt-hora.
 
@@ -59,14 +63,14 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 
 [3] O quilowatt-hora é uma unidade de energia igual a 3600 quilojoules. O quilowatt-hora é comumente usado como uma unidade de cobrança da energia entregue aos consumidores pelas concessionárias de energia elétrica.
 
-[4] As emissões de Gases de Efeito Estufa (GEE) provenientes da geração elétrica no Brasil totalizaram 56,3 milhões de toneladas (Mt) de CO2 em 2019, quase 7% superior a 2018.
+[4] Conjunto de instalações e de equipamentos que possibilitam o suprimento de energia elétrica nas regiões do país interligadas eletricamente, conforme regulamentação aplicável.
+
+[5] As emissões de Gases de Efeito Estufa (GEE) provenientes da geração elétrica no Brasil totalizaram 56,3 milhões de toneladas (Mt) de CO2 em 2019, quase 7% superior a 2018.
 
 
 ## **Público-Alvo**
 
-O público-alvo desta aplicação da Web seriam homens e mulheres, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
-
-*Consumidores de todas as classes sociais, que em suas  residências      utilizam eletrodomésticos da linha Branca,  produtos como refrigeradores, lavadoras, fogões,  lava louças, micro-ondas, freezers,  entre outros,  da linha    Marrom ou eletrodomésticos de entretenimento como por exemplo  TVs,  home-theaters, aparelhos de áudio,  câmeras digitais,  videogames,  e por último os  eletrodomésticos portáteis ou seja  aqueles que podem ser facilmente transportados como   barbeadores, batedeiras de bolos, cafeteiras, espremedores de frutas, ferros de passar, fritadeiras,  liquidificadores, sanduicheiras, secadores de cabelo, ventiladores.*
+O público-alvo desta aplicação da Web seriam homens e mulheres, sem distinção de classe social, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos, diversos, na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
 
 ### *Stakeholders*
 
@@ -74,7 +78,9 @@ De acordo R. Edward Freeman e John F. Mcvea (2001), o termo *stakeholders* possu
 
 Segundo Freeman (1984), para o desenvolvimento de estratégias, a organização deve se atentar na busca de respostas para três perguntas básicas sobre seus *stakeholders*: Quem são os _stakeholders_? O que eles querem? Como eles tentarão atingir suas metas e satisfazer seus interesses? 
 
-O presente projeto, com o intuito de realizar os objetivos propostos, fez o mapeamento das pessoas e/ou comunidade afetadas pela criação da aplicação da Web. Os *stakeholders* levantados foram classificados primeiramente em os que foram impactados pelo projeto (**_Stakeholders_ de projeto**) e os que foram impactados pelo produto (**_Stakeholders_ de produto**).
+O presente projeto, com o intuito de realizar os objetivos propostos, fez o mapeamento do público afetado pela criação da aplicação da Web. 
+
+Os *stakeholders* levantados foram classificados primeiramente em os que foram impactados pelo projeto (**_Stakeholders_ de projeto**) e os que foram impactados pelo produto (**_Stakeholders_ de produto**).
 
 **_Stakeholders_ de Produto** são todos aqueles afetados pela Aplicação da Web a ser desenvolvida. Os principais Stakeholders dessa classe são o **Público-Alvo**, como definido anteriormente. Porém, além deles também temos todos os que interagem, diretamente ou não, com a aplicação, trabalham utilizando os resultados obtidos pelo público-alvo, ou serão impactados pelos deploys e pela operação do produto. E são eles:
 
@@ -114,7 +120,7 @@ Após a classificação de impacto por produto ou projeto, os Stakeholders foram
 
 •	Distribuidoras do setor elétrico da região Sudeste do Brasil;
 
-•	Fabricantes utensílios elétricos;
+•	Fabricantes de Eletrônicos;
 
 •	Gerente de Projeto;
 
@@ -126,7 +132,7 @@ Após a classificação de impacto por produto ou projeto, os Stakeholders foram
 
 •	Desenvolvedor front-end;
 
-•	Fabricantes utensílio elétricos;
+•	Fabricantes de Eletrônicos;
 
 •	Web designer;
 
@@ -141,14 +147,14 @@ Agora que foram mapeados e classificados os _Stakeholders_, deve-se explanar qua
 | _Stakeholder_ | Tipo de _Stakeholder_ | Grau de Envolvimento | Quando deve haver o envolvimento | Necessidades |
 | --------------| --------------------- | -------------------- | -------------------------------- | ------------ |
 | Agência Nacional de Energia Elétrica- ANEEL | N/A | Dependência | Durante pesquisas/inclusão de dados | N/A |
-| Analista de sistemas | N/A | Dependência | Durante pesquisas/inclusão de dados | Consultado para a compreensão da necessidade de negócio do cliente, para especificar, por escrito, o que precisa ser alterado no projeto; |
-| Analista de Testes | Produto | Dependência | Sempre que necessário testar novas atualizações | Consultado para a validação do projeto, ou seja, verifica se a etapa de codificação cumpriu o que foi solicitado na especificação do analista de sistemas, além de verificar se há erro na aplicação; |
-| Analista do Banco de dados | Projeto/Produto | Dependência | Sempre que necessário para a alteração/inclusão de dados | Consultado para definir a arquitetura do bando de dados em caso se alterações; Consultado para a criação dos comandos para tratamento de rotinas mais complexas de manipulação de dados; |
-| Desenvolvedor front-end | Produto | Participação/Dependência | Sempre que necessárias atualizações | Criar uma boa experiência do usuário; Garantir boa performance usuário/servidor; Consultado para alterar as especificações de negócio do aplicativo em código |
+| Analista de sistemas | N/A | Dependência | Durante pesquisas/inclusão de dados | Ser consultado para a compreensão da necessidade de negócio do cliente, com o fim de especificar, por escrito, o que precisa ser alterado no projeto; |
+| Analista de Testes | Produto | Dependência | Sempre que necessário testar novas atualizações | Ser consultado para a validação do projeto, para verificar se a etapa de codificação cumpriu o que foi solicitado, na especificação do analista de sistemas, além de verificar se há erros na aplicação; |
+| Analista do Banco de dados | Projeto/Produto | Dependência | Sempre que necessário para a alteração/inclusão de dados | Ser consultado para definir a arquitetura do banco de dados em caso de alterações; Ser consultado para a criação dos comandos, para tratamento de rotinas mais complexas de manipulação de dados; |
+| Desenvolvedor front-end | Produto | Participação/Dependência | Sempre que necessárias atualizações | Criar uma boa experiência do usuário; Garantir boa performance usuário/servidor; Ser consultado para alterar as especificações de negócio do aplicativo em código |
 | Distribuidoras do setor elétrico da região Sudeste do Brasil | N/A | Dependência | Durante pesquisas/inclusão de dados | N/A |
-| Fabricantes aparelhos (utensílios) elétricos | Produto | Dependência | Durante pesquisas/inclusão de dados | N/A |
+| Fabricantes de Eletrônicos | Produto | Dependência | Durante pesquisas/inclusão de dados | N/A |
 | Gerente de Projeto | Projeto/Produto | Interferência/Dependência | Sempre que necessário  | Decidir prioridades; Participar das demonstrações do produto |
-| Público-Alvo | Produto | Interferência/Dependência | Durante pesquisas | Aplicação de fácil uso; Lista/modelos aparelhos eletrônicos; Informação sobre tarifas; Guia de boas práticas; |
-| Web Designer| Produto | Participação | Quando houver alguma atualização do produto | Quer um documento de especificação, para elaborar todo o desenho das interfaces do aplicativo, priorizando a usabilidade; |
+| Público-Alvo | Produto | Interferência/Dependência | Durante pesquisas | Aplicação de fácil uso; Listagem dos modelos de aparelhos eletrônicos; Informação sobre tarifas; Guia de boas práticas; |
+| Web Designer| Produto | Participação | Quando houver alguma atualização do produto | Quer um documento de especificação para elaborar todo o desenho das interfaces do aplicativo, priorizando a usabilidade; |
 
 Com o mapeamento dos _stakeholders_, o presente projeto pode reconhecer com quais públicos, organizações e especialistas a aplicação da Web se relaciona, qual o tipo de relação e expectativas geradas, que permitem identificar quais exigem um contato estratégico.
