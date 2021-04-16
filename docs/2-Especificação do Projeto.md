@@ -41,10 +41,6 @@ Fontes: Avaliação do mercado de eficiência energética no Brasil - Ano Base 2
 
 ## **Personas**
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
@@ -55,15 +51,11 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+Neste projeto, as personas levantadas durante a análise do problema são apresentadas abaixo:
 
-Bruno Silva, 58 anos, Advogado e autônomo na cidade de Montes Claros, Minas Gerias, utiliza os meios de mídia E-mail, Facebook, WhatsApp e Sistemas Jurídicos Eletrônicos, para o trabalho. Deseja criar um escritório em sua residência, totalmente adaptado. Isso inclui, a possibilidade de uso dos meios de comunicação, de forma prática e eficiente. Um espaço separado e dedicado na residência, adaptado para o uso de computadores, impressora, televisão, máquina de café, com boa iluminação e ventilado. Porém, a adaptação do escritório em casa, exige o uso de diversos equipamentos e utensílios que utilizam constantemente energia elétrica. Consequentemente, os gatos mensais referentes ao uso desses equipamentos tornaram-se demasiadamente onerosos. Logo, Bruno está buscando meios de economizar além de obter informações mais precisas sobre os utensílios elétricos e suas taxas de consumo elétrico. A aplicação da Web irá auxiliar no registro de cada utensílio e por seguinte na identificação dos padrões de consumo de energia, de forma individual, irá possibilitar que ele próprio adeque este consumo, baseando-se nos limites das bandeiras tarifárias, além de conscientizar sobre a economia elétrica em escala, ao promover educação de Bruno através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
+Bruno Silva, 58 anos, Advogado e autônomo na capital do estado de São Paulo, utiliza os meios de mídia E-mail, Facebook, WhatsApp e Sistemas Jurídicos Eletrônicos, para o trabalho. Tinha o desejo de criar um escritório em sua residência totalmente adaptado. Isso inclui a possibilidade de uso dos meios de comunicação de forma prática e eficiente. Um espaço separado e dedicado na residência, para o uso de computadores, impressora, televisão, máquina de café, com boa iluminação e ventilado. Porém, a adaptação do escritório em casa exigiu o uso de diversos equipamentos e utensílios dependentes de energia elétrica. Consequentemente, os gatos mensais referentes ao uso desses equipamentos tornaram-se demasiadamente onerosos. Logo, Bruno está buscando meios de economizar além de obter informações mais precisas sobre os utensílios elétricos e suas taxas de consumo elétrico. A aplicação da Web irá auxiliar no registro de cada utensílio e por seguinte na identificação dos padrões de consumo de energia, de forma individual, irá possibilitar que ele próprio adeque este consumo, baseando-se nos limites das bandeiras tarifárias, além de conscientizar sobre a economia elétrica em escala, ao promover educação de Bruno através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
 
-
-Beatriz Nunes tem 38 anos é formada em administração de empresas, casada mãe de três filhos com idade entre 5 e 11 anos, Beatriz mora em Belo Horizonte sua rotina diária se divide entre o trabalho em uma empresa, e os cuidados com a saúde educação e criação dos filhos e também as tarefas domesticas. Juntamente com o marido seu grande desafio está em controlar os gastos com a residência e a educação das crianças, ao mesmo tempo não perde qualidade de vida, os custos com a energia elétrica é um dos principais devido as crianças passarem maior parte do tempo utilizando aparelho eletrônicos como celulares, televisores e computadores já que com a quarentena as atividades educacionais estão concentradas 100 % no formato EAD. Por isso um dos objetivos familiar e controlar a demanda energética. 
-
-
-
-
+Beatriz Nunes, 38 anos, é formada em administração de empresas, casada, mãe de três filhos com idades entre 5 e 11 anos e mora em Belo Horizonte Minas Gerais. Sua rotina diária se divide entre o trabalho em uma empresa e os cuidados com a saúde, educação, criação dos filhos e tarefas domésticas. Juntamente com o seu marido seu grande desafio está no controle dos gastos com a residência e a educação dos filhos. Porém, com a quarentena instaurada, devido à pandemia da Covid-19, os custos com a energia elétrica aumentaram. Isso, por intermédio do uso constante pelas crianças de aparelhos celulares, televisores e computadores, direcionados para o estudo escolar à distância. Portanto, Beatriz pretende encontrar um meio de controle dessa demanda de uso da energia elétrica. 
 
 
 ## **Histórias de Usuários**
@@ -72,14 +64,12 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |..PARA ... `MOTIVO/VALOR`..                     |
 |--------------------|------------------------------------|----------------------------------------        |
-|Bruno Silva         | Manter o registro de aparelhos     | Entender o consumo individual, de cada aparelho|
-|Bruno Silva         | Entender os valores de cobrança    | Otimizar e economizar mensalmente na conta     |
-|Nome                |                                    |                                                |  
+|Bruno Silva | Manter um registro de consumo de aparelhos elétricos, que mais utiliza | Entender o consumo individual, de cada aparelho|
+|Bruno Silva | Entender os valores de cobrança    | Otimizar o uso dos aparelhos ou substituir aqueles que mais implacam mensalmente na conta |
+|Beatriz Nunes |                                    |                                                |  
 |Nome                |                                    |                                                |
 |                    |                                    |                                                |                 
 |                    |                                    |                                                |    
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
