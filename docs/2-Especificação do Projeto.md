@@ -41,6 +41,8 @@ Fontes: Avaliação do mercado de eficiência energética no Brasil - Ano Base 2
 
 ## **Personas**
 
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
@@ -49,7 +51,7 @@ Fontes: Avaliação do mercado de eficiência energética no Brasil - Ano Base 2
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 >
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
 
 Neste projeto, as personas levantadas durante a análise do problema são apresentadas abaixo:
 
@@ -65,11 +67,11 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |..PARA ... `MOTIVO/VALOR`..                     |
 |--------------------|------------------------------------|----------------------------------------        |
 |Bruno Silva | Manter um registro de consumo de aparelhos elétricos, que mais utiliza | Entender o consumo individual, de cada aparelho|
-|Bruno Silva | Entender os valores de cobrança    | Otimizar o uso dos aparelhos ou substituir aqueles que mais implacam mensalmente na conta |
-|Beatriz Nunes |                                    |                                                |  
-|Nome                |                                    |                                                |
-|                    |                                    |                                                |                 
-|                    |                                    |                                                |    
+|Bruno Silva | Entender os valores de cobrança | Economizar energia; otimizar o uso dos aparelhos; verificar a necessidade de substituir os aparelhos que mais implacam mensalmente na conta |
+|Beatriz Nunes | Maior controle gasto energia | Economizar no gasto mensal de energia elétrica |  
+|Nome |                                    |                                                |
+|Nome |                                    |                                                |                 
+|Nome |                                    |                                                |    
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
