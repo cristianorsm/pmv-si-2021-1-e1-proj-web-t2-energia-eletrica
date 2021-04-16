@@ -16,14 +16,13 @@ O presente projeto visa a formalização das bases para o desenvolvimento de uma
 
 ## **Problema**
 
-A energia elétrica pode ser considerada um serviço essencial que representa grande impacto nos gastos totais de uma residência. Significando que boa parte do orçamento das famílias do Sudeste brasileiro, referem-se aos hábitos diários de consumo de energia elétrica, consumo esse que se torna cada vez mais oneroso com o advento de novas soluções tecnológicas.
+A energia elétrica pode ser considerada um serviço essencial que representa grande impacto nos gastos totais de uma residência. Significando que boa parte do orçamento das famílias Brasileiras, referem-se aos hábitos diários de consumo de energia elétrica, consumo esse que se torna cada vez mais oneroso com o advento de novas soluções tecnológicas.
 
 No ano de 2020, com o desencadeamento da Covid-19, observou-se que o consumo residencial aumentou devido às medidas protetivas instauradas pelo Governo Brasileiro, como o isolamento e distanciamento social, que alocaram o ambiente de trabalho para a residência particular. 
 
-Logo, saber identificar de forma clara e precisa a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução para identificar os perpretores de um dispêndio alto, e assim agir para a adequação do uso tendo como base, o nível de consumo. Porém, realizar este acompanhamento pode demandar tempo além de exigir conhecimentos técnicos, sobre os aparelhos eletrônicos, dificultando na missão de controle, pelo usuário habitual de energia elétrica.
+Logo, saber identificar de forma clara e precisa a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução para identificar os perpretores de um dispêndio alto, e assim agir para a adequação do uso tendo como base, o nível de consumo. Porém, realizar este acompanhamento pode ser dificultoso por demandar tempo na busca de dados específicos, sem o uso de uma ferramenta própria com informações técnicas e precisas, sobre os aparelhos eletrônicos, como por exemplo, a corrente, a tensão e a potência.
 
 Desse modo, o problema que se busca resolver é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
-
 
 ## **Objetivos**
 
@@ -49,11 +48,10 @@ O Anuário Estatístico de Energia Elétrica 2020 (ano base 2019), publicado pel
 
 Observa-se então que a região Sudeste engloba de forma significativa porcentagens altas de consumo elétrico, por habitante, tendo sido responsável por mais de 50% do consumo nacional de eletricidade. Portanto, a aplicação da Web se propõe a atender a população desta Região, uma vez que atenderia incialmente a um significativo número de usuários interessados.
 
-Sobre o quesito do consumo residencial, a propagação da Covid-19 apresentou diversos reflexos na economia do país, como o aumento dos reajustes tarifários e no consumo residencial. Com mais pessoas em casa em razão da pandemia, o consumo de energia residencial cresceu 4,1%, para 148.223 GWh. Ou seja, esse foi o único segmento que registrou crescimento em 2020.
+Sobre o quesito do consumo residencial, a propagação da Covid-19 apresentou diversos reflexos na economia do país, como o aumento dos reajustes tarifários e no consumo residencial. Com mais pessoas em casa em razão da pandemia, o consumo de energia residencial cresceu 4,1%, para 148.223 GWh. Ou seja, esse foi o único segmento que registrou crescimento em 2020. Portanto, medidas voltadas para a redução do consumo de energia nunca foram tão necessárias para a economia individual além de contribuir invariavelmente para o meio ambiente[5].
 
-Portanto, medidas voltadas para a redução do consumo de energia nunca foram tão necessárias para a economia individual além de contribuir invariavelmente para o meio ambiente[5].
-
-A aplicação da Web “Nome do projeto”, facilitaria no conhecimento de cada aparelho eletrônico na residência. O usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). Ao final, a aplicação da web, baseando-se nesses valores, calcularia o consumo total ou o consumo por aparelho eletrônico, além de dispor de sugestões de uso eficiente. Essas sugestões seriam providas por informativos sobre como otimizar o uso diário dos eletrônicos, com mudanças nos hábitos, como por exemplo, a valorização da iluminação natural, a substituição da lâmpada comum para a de Led e a remoção de aparelhos eletrônicos da tomada.
+A aplicação da Web “Nome do projeto”, facilitaria no conhecimento de cada aparelho eletrônico na residência. O usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). 
+Ao final, a aplicação da web, baseando-se nesses valores, calcularia o consumo total ou o consumo por aparelho eletrônico, além de dispor de sugestões de uso eficiente. Essas sugestões seriam providas por informativos sobre como otimizar o uso diário dos eletrônicos, com mudanças nos hábitos, como por exemplo, a valorização da iluminação natural, a substituição da lâmpada comum para a de Led e a remoção de aparelhos eletrônicos da tomada.
 
 Embora todas as pessoas possam se beneficiar de soluções para a moderação do uso de energia elétrica, na residência, o foco deste trabalho é o consumidor responsável pelo orçamento familiar. O intuito é disponibilizar uma ferramenta de fácil uso, informativa que promoveria o uso consciente dos aparelhos à base de energia elétrica, residenciais.
 
@@ -70,7 +68,7 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 
 ## **Público-Alvo**
 
-O público-alvo desta aplicação da Web seriam homens e mulheres, sem distinção de classe social, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos, diversos, na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
+O público-alvo desta aplicação da Web seriam homens e mulheres, sem distinção de classe social, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos, diversos, na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizar sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Ao observar variações mensais de consumo e estabelecer uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
 
 ### *Stakeholders*
 
