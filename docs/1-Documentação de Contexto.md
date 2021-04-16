@@ -65,6 +65,7 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 ## **Público-Alvo**
 
 O público-alvo desta aplicação da Web seriam homens e mulheres, da região Sudeste do Brasil, responsáveis pela administração orçamentária de sua residência, que fazem uso constante de utensílios elétricos na vida diária. Ou seja, aqueles que planejam manter o consumo de energia elétrica sob controle, acompanhando um histórico de registro, para mais informações e facilidades no custeio de gastos do consumo elétrico próprio ou de outros membros da residência. E que pretendem se conscientizarem sobre o uso eficiente dos aparelhos e os impactos dos hábitos diários no meio ambiente. Observando variações mensais de consumo e estabelecendo uma comparação com sua própria média, identificando períodos de aumento e suas possíveis causas – clima, mudanças de hábitos, aparelho novo ou visitas recebidas. 
+
 *Consumidores de todas as classes sociais, que em suas  residências      utilizam eletrodomésticos da linha Branca,  produtos como refrigeradores, lavadoras, fogões,  lava louças, micro-ondas, freezers,  entre outros,  da linha    Marrom ou eletrodomésticos de entretenimento como por exemplo  TVs,  home-theaters, aparelhos de áudio,  câmeras digitais,  videogames,  e por último os  eletrodomésticos portáteis ou seja  aqueles que podem ser facilmente transportados como   barbeadores, batedeiras de bolos, cafeteiras, espremedores de frutas, ferros de passar, fritadeiras,  liquidificadores, sanduicheiras, secadores de cabelo, ventiladores.*
 
 ### *Stakeholders*
