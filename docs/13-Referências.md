@@ -1,5 +1,7 @@
 # Referências
 
+Agência Nacional de Energia Elétrica (Brasil). Por dentro da conta de luz: informação de utilidade pública/Agência Nacional de Energia Elétrica. 7. ed. - Brasília: ANEEL, 2016.
+
 Copel Pura Energia. Consumo residencial de energia teve alta de 5,5% em 2020. Copel Pura Energia, 2021. Disponível em: <https://www.copel.com/hpcweb/consumo-residencial-de-energia-teve-alta-de-55-em-2020/(link)>. Acesso em: 10 abril 2021.
 
 Engie. Consumo de energia em 2020: o que ele mostra sobre o país. Engie, 2021. Disponível em: <https://www.alemdaenergia.com.br/consumo-nacional-de-energia-eletrica-tem-crescimento-de-35-em-novembro/#:~:text=O%20consumo%20de%20energia%20el%C3%A9trica,de%20Pesquisa%20Energ%C3%A9tica%20(EPE)>. Acesso em: 09 abril 2021.
@@ -7,6 +9,8 @@ Engie. Consumo de energia em 2020: o que ele mostra sobre o país. Engie, 2021. 
 Epe. Anuário Estatístico de energia Elétrica. Epe, 2020. Disponível em: <https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/topico-168/EPEFactSheetAnuario.pdf>. Acesso em 10 abril 2021.
 
 FILHO, Nielson Fontes Siffert. MARCHETTI, Dalmo dos Santos. MARTINS, André Augusto Corsetti. O BNDES e a questão energética e logística da Região Sudeste. Disponível em: https://web.bndes.gov.br/bib/jspui/bitstream/1408/4401/1/O%20BNDES%20e%20a%20quest%C3%A3o%20energ%C3%A9tica%20e%20logistica%20na%20Regi%C3%A3o%20Sudeste_5_P.pdf. Acesso em: 16 abril 2021.
+
+Federação das Indústrias do Rio de Janeiro (Firjan). Pesquisa e Estudos Socioeconômicos. Quanto custa a energia elétrica para a pequena e média indústria no Brasil? Publicações Sistema Firjan. Rio de Janeiro – Brasil, 2017.
 
 FREEMAN, R. E. et al. Stakeholder theory: the state of the art. Cambridge University Press, Cambridge, 2010.
 
