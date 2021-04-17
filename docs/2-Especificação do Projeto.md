@@ -72,7 +72,7 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 |Bruno Silva | Manter um registro de consumo de aparelhos elétricos, que mais utiliza | Entender o consumo individual, de cada aparelho|
 |Bruno Silva | Entender os valores de cobrança | Economizar energia; otimizar o uso dos aparelhos; verificar a necessidade de substituir os aparelhos que mais implacam mensalmente na conta |
 |Beatriz Nunes | Maior controle gasto energia | Economizar no gasto mensal de energia elétrica |  
-|Elisane Melo Leite | Economizar no pagamento de suas contas de luz e também desempenhar uma responsabilidade social uma vez que a fonte principal de energia elétrica advém de recursos naturais                                    |                                                |
+|Elisane Melo Leite | Identificar melhor o novo padrão de gasto de energia elétrica em seu domicílio     | Economizar no pagamento de suas contas de luz e também desempenhar uma responsabilidade social uma vez que a fonte principal de energia elétrica advém de recursos naturais                                                |
 |Nome |                                    |                                                |                 
 |Nome |                                    |                                                |    
 
