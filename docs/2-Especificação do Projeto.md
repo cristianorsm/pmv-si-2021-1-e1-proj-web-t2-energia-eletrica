@@ -87,6 +87,9 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## **Requisitos**
+Introdução:
+Requisitos são solicitações desejos e necessidades, para o desenvolvimento de um software. Os requisitos estão presentes ao longo de todo ciclo de vida do software. Os requisitos definem o que é solicitado ao sistema e com quais limitações ele irá operar. De forma bem simples podemos considerar que requisitos de software é toda a abstração de um recurso, funcionalidade ou resultado esperado de um sistema. O processo de levantamento de requisitos é responsável por identificar todas essas necessidades e manter toda a documentação. 
+
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -104,6 +107,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
+
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
