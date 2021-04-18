@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# Uai-Energy
 
 `SISTEMAS DE INFORMAÇÃO`
 
-` Projeto: Aplicações WEB`
+` Projeto: Aplicações da WEB`
 
-`1 SEMESTRE`
+`1º SEMESTRE`
 
 ## Integrantes
 
