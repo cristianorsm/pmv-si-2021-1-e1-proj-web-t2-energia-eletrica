@@ -1,10 +1,9 @@
 # **2. Especificação do Projeto**
 
  
-Públicos atendidos:
-Moradores de Casas com porte diversificado;
-Moradores de condôminos;
-Moradores de prédios residenciais.
+Este projeto visa criar um modelo de aplicação, que atenda a usuários do âmbito residencial tais com: moradores de casas com porte diversificado, moradores de condomínios e prédios residenciais, visando auxiliar na identificação e compreensão de medidas que resultem em economia de energia. 
+Com a implementação do sistema desenvolvido, o consumidor doméstico poderá ter conhecimento do consumo nominal de cada eletrodoméstico, permitindo assim tomar decisões para utilizar lós de forma mais racional e que consequentemente gerar economia de energia. 
+
 Objetivo:
  
 Fornece ferramentas interativas que permitem aos usuários consultar e selecionar as estratégias mais interessantes para um consumo energético mais eficiente, promovendo educação e conscientização do mesmo.
@@ -19,12 +18,10 @@ Estimular o consumo de energia elétrica em cada residência de forma consciente
  
 Os principais equipamentos presentes em residências consomem energia
 basicamente de fontes como eletricidade, GLP, gás natural, lenha ou carvão vegetal. As quantidades e características destes equipamentos estão fortemente ligadas à renda de seus ocupantes.
-Suas funções cumprem requisitos básicos de sobrevivência, tais como alimentação,
-higiene, conforto ambiental, iluminação, condicionamento de ambientes e
-entretenimento, tais como uso de aparelhos tipo televisores e rádios.
+Suas funções cumprem requisitos básicos de sobrevivência, tais como alimentação, higiene, conforto ambiental, iluminação, condicionamento de ambientes e entretenimento tais como aparelhos televisores, aparelhos de som, aparelhos celulares, aparelhos de vídeo e aparelhos de informática.
  
-Ocasionalmente atividades profissionais, ou de complementação profissional, são
-desenvolvidas nas residências, acrescendo outra categoria de equipamentos tais como computadores, impressoras entre outros, visto que esta é uma tendência crescente atualmente.
+Ocasionalmente algumas atividades profissionais, ou de complementação profissional, são desenvolvidas em âmbito residencial, acrescentando assim outras categorias de equipamentos tais como: Computadores, impressoras e monitores, entre outros. Visto que esta situação é uma tendencia crescente no atual senário econômico e social. Desta forma vemos uma tendencia crescente nos gastos com energia elétrica residencial, que não são considerados no orçamento nos casos de home office.
+
 Informações anexas:
 Participação dos eletrodomésticos no consumo residencial na região Sudeste:
 Lampada 19,0%
@@ -36,7 +33,9 @@ Ferro de passar roupa 3,0%
 Lavadora de roupa 1,0%
 Geladeira 22,0%
 Freezer 5,0%
- 
+
+O equipamento que causa mais impacto na curva de carga da Região Sudeste é o chuveiro elétrico, seguido pelas lâmpadas e pela TV. O horário de maior carga é entre as 18:00 horas e as 22:00 horas. Este é o horário em que as pessoas tomam banho, ligam a iluminação, cozinham e assistem TV. Existe um aumento da demanda por energia elétrica também pela manhã, entre 06:00 horas e 09:00 horas, causado principalmente pela utilização do chuveiro elétrico. A geladeira e o freezer são utilizados durante todo o dia. Existe também uma considerável quantidade de lâmpadas que são utilizadas durante todo o dia. O ar condicionado possui maior utilização durante toda a noite. A TV embora tenha sua utilização perceptível durante todo o dia, possui um período de maior utilização entre 19:00 horas e 23:00 horas. Os aparelhos de som são utilizados de manhã até o final da tarde e o ferro de passar roupa no início da manhã e no final da tarde. A lavadora de roupa é utilizada principalmente no início da manhã e à noite.
+
 Fontes: Avaliação do mercado de eficiência energética no Brasil - Ano Base 2005 Classe residencial - PROCEL - Eletrobrás 
 
 ## **Personas**
