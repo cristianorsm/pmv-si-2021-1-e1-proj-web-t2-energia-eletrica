@@ -87,9 +87,9 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## **Requisitos**
-Introdução:
-Requisitos são solicitações desejos e necessidades, para o desenvolvimento de um software. Os requisitos estão presentes ao longo de todo ciclo de vida do software. Os requisitos definem o que é solicitado ao sistema e com quais limitações ele irá operar. De forma bem simples podemos considerar que requisitos de software é toda a abstração de um recurso, funcionalidade ou resultado esperado de um sistema. O processo de levantamento de requisitos é responsável por identificar todas essas necessidades e manter toda a documentação. 
+Segundo o Dicio (dicionário online de português) a palavra requisitos expressa condições básicas e necessária para se obter alguma coisa ou para alcançar determinado propósito, na Engenharia de requisitos, são solicitações desejos e necessidades expressa pelos usuários, para o desenvolvimento de um software. Os requisitos estão presentes ao longo de todo ciclo de vida do software. Os requisitos definem o que é solicitado ao sistema e com quais limitações ele irá operar. De forma bem simples podemos considerar que requisitos de software é toda a abstração de um recurso, funcionalidade ou resultado esperado de um sistema. O processo de levantamento de requisitos é responsável por identificar todas essas necessidades e manter toda a documentação. 
 
+Os requisitos definem os serviços que o sistema deveria oferecer, e são classificados em dois tipos requisitos funcionais e os requisitos não funcionais: 
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
