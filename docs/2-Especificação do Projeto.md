@@ -113,7 +113,7 @@ A tabela a seguir representa os requisitos funcionais   do presente projeto.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001|   | ALTA| 
+|RNF-001| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
 |RNF-002|   |  BAIXA | 
 |RNF-005|   | MÉDIA |
 |RNF-002|  |  BAIXA |
