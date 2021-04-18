@@ -114,7 +114,7 @@ A tabela a seguir representa os requisitos funcionais   do presente projeto.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
-|RNF-002| Interface WEB: O usuário utilizará o sistema através de um web browser  |  ALTA | 
+|RNF-002| Interface WEB: O usuário utilizará o sistema através de um  browser  |  ALTA | 
 |RNF-005| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
 |RNF-002|  |  BAIXA |
 |RNF-002|  |  BAIXA |
