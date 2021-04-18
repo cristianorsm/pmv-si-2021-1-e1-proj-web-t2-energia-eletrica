@@ -77,7 +77,7 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 |Bruno Silva | Entender os valores de cobrança | Economizar energia; otimizar o uso dos aparelhos; verificar a necessidade de substituir os aparelhos que mais implacam mensalmente na conta |
 |Beatriz Nunes | Maior controle gasto energia | Economizar no gasto mensal de energia elétrica |  
 |Elisane Melo Leite | Identificar melhor o novo padrão de gasto de energia elétrica em seu domicílio     | Economizar no pagamento de suas contas de luz e também desempenhar uma responsabilidade social uma vez que a fonte principal de energia elétrica advém de recursos naturais                                                |
-|Nome |                                    |                                                |                 
+|Robson Fernandes  | Otimizar meus gastos com energia elétrica e entender meu novo padrão de consulto | Criar uma estratégia de economia de energia e otimização do uso de determinados aparelhos eletroeletrônicos, com intuito de gerar economia mensal de energia                                                |                 
 |Nome |                                    |                                                |    
 
 > **Links Úteis**:
