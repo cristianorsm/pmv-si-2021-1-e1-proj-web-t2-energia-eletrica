@@ -117,11 +117,11 @@ Já os requisitos não funcionais são relacionam-se ao sistema da aplicação e
 |-------|-------------------------|----|
 |RNF-001| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
 |RNF-002| Interface WEB: O usuário utilizará o sistema através de um  browser  |  ALTA | 
-|RNF-005| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
+|RNF-003| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
+|RNF-004|  |  BAIXA |
+|RNF-005|  |  BAIXA |
+|RNF-006|  |  BAIXA |
+|RNF-007|  |  BAIXA |
 
 
 
