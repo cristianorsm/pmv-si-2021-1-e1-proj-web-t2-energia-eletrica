@@ -106,8 +106,15 @@ A tabela a seguir representa os requisitos funcionais   do presente projeto.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema permitirá que usuários sejam cadastrados  | ALTA| 
+|RNF-002| O sistema permitirá que os usuários cadastrem eletrodomésticos conforme os cômodos que estão alocados  |  BAIXA | 
+|RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-005| O sistema permitirá que os usuários façam alterações em seus 
+cadastros  |  BAIXA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
 
 
 
