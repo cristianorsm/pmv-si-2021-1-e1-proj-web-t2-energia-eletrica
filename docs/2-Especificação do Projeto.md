@@ -92,8 +92,7 @@ Segundo o Dicio (dicionário online de português) a palavra requisito expressa 
 Os requisitos definem os serviços que o sistema deveria oferecer, e são classificados em dois tipos requisitos funcionais e os requisitos não funcionais: 
 Os requisitos funcionais representam o que o sistema oferece em forma de serviços ou tarefas relacionam- se a forma como o sistema opera, pois especifica-se as entradas e saídas de informações. 
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
+A tabela a seguir representa os requisitos funcionais   do presente projeto. 
 ### **Requisitos Funcionais**
 
 |ID    | Descrição do Requisito  | Prioridade |
