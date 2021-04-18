@@ -109,7 +109,7 @@ A tabela a seguir representa os requisitos funcionais   do presente projeto.
 |RF-008 |  |  BAIXA |
 
 
-Já os requisitos não funcionais são relacionam-se ao sistema da aplicação em forma de segurança de informações, desempenho, facilidades, confiabilidade, disponibilidade, são premissas ou restrições que o sistema deverá atender. 
+Já os requisitos não funcionais são relacionam-se ao sistema da aplicação em forma de segurança de informações, desempenho, facilidades, confiabilidade, disponibilidade, são premissas ou restrições que o sistema deverá atender. A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá satisfazer.
 
 ### **Requisitos não Funcionais**
 
