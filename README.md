@@ -2,7 +2,7 @@
 
 `SISTEMAS DE INFORMAÇÃO`
 
-` Projeto: Aplicações da WEB`
+` Projeto: Aplicação da WEB`
 
 `1º SEMESTRE`
 
