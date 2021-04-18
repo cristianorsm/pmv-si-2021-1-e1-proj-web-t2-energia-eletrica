@@ -94,6 +94,16 @@ Os requisitos definem os serviços que o sistema deveria oferecer, e são classi
 Os requisitos funcionais representam o que o sistema oferece em forma de serviços ou tarefas relacionam- se a forma como o sistema opera, pois especificam as entradas e saídas de informações. 
 
 A tabela a seguir representa os requisitos funcionais   do presente projeto. 
+### **Requisitos Funcionais**
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RF-001 | O sistema permitirá que usuários sejam cadastrados  | ALTA| 
+|RF-002 | O sistema permitirá que os usuários cadastrem eletrodomésticos conforme os cômodos que estão alocados  |  BAIXA | 
+|RF-003 | Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RF-005 | O sistema permitirá que os usuários façam alterações em seus cadastros  | MÉDIA |
+|RF-002 | Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+
 
 ### **Requisitos não Funcionais**
 
