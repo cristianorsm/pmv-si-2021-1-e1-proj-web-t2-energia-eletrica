@@ -39,15 +39,28 @@ Os requisitos de um sistema são as solicitações desejos e necessidades expres
 Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as funções que o sistema será capaz de realizar. Esses definirão o comportamento do sistema, sob o ponto de vista do usuário. Estes requisitos são apresentados na tabela a seguir, com suas prioridades:
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RF-001 | O sistema permitirá que usuários sejam cadastrados  | ALTA| 
-|RF-002 | O sistema permitirá que os usuários cadastrem eletrodomésticos conforme os cômodos que estão alocados  |  MÉDIA | 
-|RF-003 | Gerar relatório de consumo   |  BAIXA |
-|RF-004 | O sistema permitirá que os usuários façam alterações em seus cadastros  | MÉDIA |
-|RF-005 |  |  BAIXA |
-|RF-006 |  |  BAIXA |
-|RF-007 |  |  BAIXA |
-|RF-008 |  |  BAIXA |
+|-------|-------------------------|-----------|
+|RF-01 | O sistema permitirá que usuários sejam cadastrados  | ALTA| 
+|RF-02 | O sistema permitirá que os usuários cadastrem eletrodomésticos conforme os cômodos que estão alocados  |  MÉDIA | 
+|RF-03 | Gerar relatório de consumo   |  BAIXA |
+|RF-04 | O sistema permitirá que os usuários façam alterações em seus cadastros  | MÉDIA |
+|RF-05 | | BAIXA |
+|RF-06 | |BAIXA |
+|RF-07 | |BAIXA |
+|RF-08 | |BAIXA |
+|RF-09 |  | |
+|RF-10 | | |
+|RF-11 | | |
+|RF-12 | |  |
+|RF-13 | |  |
+|RF-14 | |  |
+|RF-15 | |  |
+|RF-16 | |  |
+|RF-17 | | |
+|RF-18 | | |
+|RF-19 | | |
+|RF-20 | | |
+|RF-21 | | |
 
 ### **Requisitos não Funcionais**
 
@@ -55,15 +68,15 @@ Os Requisitos não funcionais da Aplicação de Web são relacionados com a form
 
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
-|RNF-002| Interface WEB: O usuário utilizará o sistema através de um  browser  |  ALTA | 
-|RNF-005| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
-|RNF-002|  |  BAIXA |
-
+|-------|-------------------------|-----------|
+|RNF-01| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
+|RNF-02| Interface WEB: O usuário utilizará o sistema através de um  browser  |  ALTA | 
+|RNF-05| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
+|RNF-06|  |  BAIXA |
+|RNF-07|  |  BAIXA |
+|RNF-08|  |  BAIXA |
+|RNF-09|  |  BAIXA |
+|RNF-10| | |
 
 ## **Restrições**
 
