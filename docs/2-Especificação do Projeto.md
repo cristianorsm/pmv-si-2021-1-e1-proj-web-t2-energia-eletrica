@@ -31,15 +31,12 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 |Robson Fernandes  | Otimizar os gastos com energia elétrica e entender os novos padrões de consumo | Criar uma estratégia de economia de energia e otimização do uso de determinados aparelhos eletrônicos.|    
 
 ## **Requisitos**
-Segundo o Dicio (dicionário online de português) a palavra requisito expressa condições básicas e necessária para se obter alguma coisa ou para alcançar determinado propósito, na Engenharia de requisitos, são solicitações desejos e necessidades expressa pelos usuários, para o desenvolvimento de um software. Os requisitos estão presentes ao longo de todo ciclo de vida do software. Os requisitos definem o que é solicitado ao sistema e com quais limitações ele irá operar. De forma bem simples podemos considerar que requisitos de software é toda a abstração de um recurso, funcionalidade ou resultado esperado de um sistema. O processo de levantamento de requisitos é responsável por identificar todas essas necessidades e manter toda a documentação. 
 
-Os requisitos definem os serviços que o sistema deveria oferecer, e são classificados em dois tipos requisitos funcionais e os requisitos não funcionais: 
-
-Os requisitos funcionais representam o que o sistema oferece em forma de serviços ou tarefas relacionam- se a forma como o sistema opera, pois especificam as entradas e saídas de informações. 
-
-A tabela a seguir representa os requisitos funcionais   do presente projeto. 
+Os requisitos de um sistema são as solicitações desejos e necessidades expressas pelos usuários, para o desenvolvimento de um software. Os requisitos estão presentes ao longo de todo ciclo de vida deste software, definem o que é solicitado ao sistema e com quais limitações ele irá operar. O processo de levantamento de requisitos é responsável por identificar todas as necessidades e manter toda a documentação. Os requisitos definem os serviços que o sistema deveria oferecer, e são classificados em dois tipos, requisitos funcionais e requisitos não funcionais:
 
 ### **Requisitos Funcionais**
+
+Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as funções que o sistema será capaz de realizar. Esses definirão o comportamento do sistema, sob o ponto de vista do usuário. Estes requisitos são apresentados na tabela a seguir, com suas prioridades:
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -52,10 +49,10 @@ A tabela a seguir representa os requisitos funcionais   do presente projeto.
 |RF-007 |  |  BAIXA |
 |RF-008 |  |  BAIXA |
 
-
-Já os requisitos não funcionais são relacionam-se ao sistema da aplicação em forma de segurança de informações, desempenho, facilidades, confiabilidade, disponibilidade, são premissas ou restrições que o sistema deverá atender. 
-
 ### **Requisitos não Funcionais**
+
+Os Requisitos não funcionais da Aplicação de Web são relacionados com a forma que as funcionalidades serão entregues ao usuário. Neste projeto o conjunto de requisitos não funcionais se classificam pela usabilidade, confiabilidade, desempenho e manutenção. Estes requisitos são apresentados na tabela a seguir, com suas prioridades:
+
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -68,36 +65,13 @@ Já os requisitos não funcionais são relacionam-se ao sistema da aplicação e
 |RNF-002|  |  BAIXA |
 
 
-
-
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 ## **Restrições**
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até 11 de julho de 2021|
+|02| Deve se restringir às tecnologias básicas da Web no Front-end |
+|03| O projeto deverá estar em conformidade com os parâmetros instituídos pela Lei do Marco Civil, da Internet no Brasil|
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
