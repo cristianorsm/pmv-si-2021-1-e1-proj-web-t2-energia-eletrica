@@ -40,43 +40,45 @@ Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
-|RF-01 | O sistema permitirá que usuários sejam cadastrados  | ALTA| 
-|RF-02 | O sistema permitirá que os usuários cadastrem eletrodomésticos conforme os cômodos que estão alocados  |  MÉDIA | 
-|RF-03 | Gerar relatório de consumo   |  BAIXA |
-|RF-04 | O sistema permitirá que os usuários façam alterações em seus cadastros  | MÉDIA |
-|RF-05 | | BAIXA |
-|RF-06 | |BAIXA |
-|RF-07 | |BAIXA |
-|RF-08 | |BAIXA |
-|RF-09 |  | |
-|RF-10 | | |
-|RF-11 | | |
-|RF-12 | |  |
-|RF-13 | |  |
-|RF-14 | |  |
-|RF-15 | |  |
-|RF-16 | |  |
-|RF-17 | | |
-|RF-18 | | |
-|RF-19 | | |
-|RF-20 | | |
-|RF-21 | | |
+|RNF-01 | Como função básica o sistema deverá permitir o usuário consultar os modelos de aparelhos eletrônicos residenciais e adicionar aparelhos inexistentes | ALTA | 
+|RNF-02 | A consulta por aparelho eletrônico requererá a inclusão da: a) Quantidade de aparelhos; b) Tempo de Uso de horas/dia; c) Potência; d) Opções de aparelhos mais comuns sugeridos | ALTA | 
+|RNF-03 | A adição de aparelhos inexistentes requererá a inclusão: a) Nome do aparelho; b) Quantidade; c) Tempo de uso, horas/dia; d) Potência;Gerar relatório de consumo | MÉDIA |
+|RNF-04 | O registro do usuário, com a geração de um _Login_ e Senha requererá: a) Nome; b) Idade; c) Sexo; d) Localização (Bairro, Cidade e Estado), e) Profissão; f) endereço eletrônico. As funções que permitem a geração de dados diários/mensais e suas alterações, no sistema deverão apenas estar acessíveis/visíveis quando for inserida um _login_ e uma senha válidos | ALTA |
+|RNF-05 | O sistema apresentará um menu de acesso ao usuário com subdivisões por cômodos: a) Sala; b) Quarto; c) cozinha; d) escritório; e) banheiro; f) lavanderia; g) garagem; h) área externa | ALTA |
+|RNF-06 | O sistema apresentará um Menu com um conteúdo de boas práticas sobre o consumo de energia elétrica | ALTA |
+|RNF-07 | A _interface_ básica, além de disponibilizar funcionalidades para a já referida consulta de aparelhos eletrônicos, deve incluir opções para acesso ao sistema (para utilizadores autorizados) e registro de novos utilizadores | ALTA |
+|RNF-08 | Existem três tipos de utilizadores com níveis de permissão diferentes: utilizador registrado, utilizador não registrado, utilizador tipo administrador | ALTA |
+|RNF-09 | O utilizador registrado tem acesso livre ao sistema e pode registrar e consultar dados. Além de gerir dados pessoais, diários ou mensais de consumo elétrico, associados a cada aparelho elétrico, em formato de relatórios. Os relatórios devem exibir funções que permitam a inserção e eliminação de itens. As características relevantes de cada item devem ser consideradas na _interface_ | ALTA |
+|RNF-10 |	O utilizador do tipo não registrado poderá consultar dados do sistema. E terá a possibilidade de efetuar autonomamente o seu registo | ALTA |
+|RNF-11 |  | |
+|RNF-12  | |  |
+|RNF-13  | |  |
+|RNF-14  | |  |
+|RNF-15  | |  |
+|RNF-16  | |  |
+|RNF-17  | | |
+|RNF-18  | | |
+|RNF-19  | | |
+|RNF-20  | | |
+|RNF-21  | | |
 
 ### **Requisitos não Funcionais**
 
 Os Requisitos não funcionais da Aplicação de Web são relacionados com a forma que as funcionalidades serão entregues ao usuário. Neste projeto o conjunto de requisitos não funcionais se classificam pela usabilidade, confiabilidade, desempenho e manutenção. Estes requisitos são apresentados na tabela a seguir, com suas prioridades:
 
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|-----------|
-|RNF-01| A interface deve ser agradável e de fácil utilização pelo usuário    | ALTA| 
-|RNF-02| Interface WEB: O usuário utilizará o sistema através de um  browser  |  ALTA | 
-|RNF-05| o sistema deverá atender às  leis e  normas legais  de acesso a internet  | ALTA |
-|RNF-06|  |  BAIXA |
-|RNF-07|  |  BAIXA |
-|RNF-08|  |  BAIXA |
-|RNF-09|  |  BAIXA |
-|RNF-10| | |
+|ID   | Descrição do Requisito  |Prioridade |
+|-----|-------------------------|-----------|
+|RNF-01 | A aplicação deverá ter uma interface simples e interativa para motivar e facilitar a sua utilização | ALTA | 
+|RNF-02 | Uma vez que a interface se destina a ser apresentado num browser impõe-se a compatibilidade com os navegadores web mais comuns (Google Chrome, Microsoft Edge, Netscape Navigator, Safari, Opera, Mozilla Firefox, Internet Explorer) | ALTA | 
+|RNF-03 | A informação gerida pelo sistema, em princípio, será crítica para o desempenho da atividade de gerar relatórios e acompanhamento dos registros. Portanto, é absolutamente fundamental garantir a máximo nível de confiabilidade da aplicação e níveis de consistência dos dados. Todos os requisitos indicados devem ter funcionamento assegurado livre de qualquer erro | ALTA |
+|RNF-04 | A segurança dos dados é também importante, sendo fundamental a proteção das informações contra acessos não autorizados | ALTA |
+|RNF-05 | A utilização do sistema a partir da _internet_, que implica equipamento físico que ultrapassa o âmbito do projeto, pode levar a que determinadas operações demorem um tempo não desprezável | MÉDIA |
+|RNF-06 | O tempo de resposta à solicitação de um serviço específico de um usuário deverá ser de um intervalo de 2 segundos | ALTA |
+|RNF-07 | O sistema de deverá processar, no mínimo, 6 transações por segundo | ALTA |
+|RNF-08 | O sistema deveria efetuar leitura de dados 5 vezes por segundo, como condição mínima | MÉDIA |
+|RNF-09 | A manutenção deve envolver tanto a atividade de reparo (de algum defeito existente no sistema de software) quanto a atividade de alteração/evolução de características existentes ou adição de novas funcionalidades não previstas ou capturadas no projeto inicial | ALTA |
+|RNF-10 | O desenvolvimento da aplicação deverá ser feito tendo em conta futuras atualizações | MÉDIA |
 
 ## **Restrições**
 
