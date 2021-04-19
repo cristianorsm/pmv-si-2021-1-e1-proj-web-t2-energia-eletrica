@@ -20,7 +20,7 @@ A energia elétrica pode ser considerada um serviço essencial que representa gr
 
 No ano de 2020, com o desencadeamento da Covid-19, observou-se que o consumo residencial aumentou devido às medidas protetivas instauradas pelo Governo Brasileiro, como o isolamento e distanciamento social, que alocaram o ambiente de trabalho para a residência particular. 
 
-Logo, saber identificar de forma clara e precisa a quantidade em Reais(R$) destinados para cada utensílio, é uma ótima solução para identificar os perpretores de um dispêndio alto, e assim agir para a adequação do uso tendo como base, o nível de consumo. Porém, realizar este acompanhamento pode ser dificultoso por demandar tempo na busca de dados específicos, sem o uso de uma ferramenta própria com informações técnicas e precisas, sobre os aparelhos eletrônicos, como por exemplo, a corrente, a tensão e a potência.
+Logo, saber identificar de forma clara e precisa a quantidade em Reais (R$) destinados para cada utensílio, é uma ótima solução para identificar os causadores de um dispêndio alto, e assim agir para a adequação do uso tendo como base, o nível de consumo. Porém, realizar este acompanhamento pode ser dificultoso por demandar tempo na busca de dados específicos, sem o uso de uma ferramenta própria com informações técnicas e precisas, sobre os aparelhos eletrônicos, como por exemplo, a corrente, a tensão e a potência.
 
 Desse modo, o problema que se busca resolver é, como o cidadão comum pode gerir melhor o consumo de energia em seu próprio domicílio, utilizando-se de um sistema de informação baseado em uma aplicação web? 
 
@@ -28,17 +28,17 @@ Desse modo, o problema que se busca resolver é, como o cidadão comum pode geri
 
 Objetivo Geral:
  
-O presente projeto visa desenvolver um aplicação web para auxiliar no registro e controle dinâmico, pelo usuário, do consumo de energia elétrica em seu próprio domicílio. Além de informar, de forma consciente, sobre métodos para economizar e otimizar o uso desses eletrodomésticos.
+O presente projeto visa desenvolver uma aplicação web para auxiliar no registro e controle dinâmico, pelo usuário, do consumo de energia elétrica em seu próprio domicílio. Além de informar, de forma consciente, sobre métodos para economizar e otimizar o uso desses eletrodomésticos.
  
 Objetivos Específicos:
  
-·   	Identificar / reconhecer os padrões de consumo de energia por aparelho doméstico em cada domicílio;
+* Identificar/reconhecer os padrões de consumo de energia por aparelho doméstico em cada domicílio;
  
-·   	Fonecer métricas que auxiliem ao usuário a adequação do consumo de energia elétrica em seu domicílio de acordo com os limites das bandeiras tarifárias;
+* Fornecer métricas que auxiliem ao usuário a adequação do consumo de energia elétrica em seu domicílio de acordo com os limites das bandeiras tarifárias;
  
-·   	Conscientizar sobre a economia elétrica em escala;
+* Conscientizar sobre a economia elétrica em escala;
  
-·   	Promover educação do usuário através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
+ * Promover educação do usuário através da comparação do consumo de energia em seu domicílio com um manual de boas práticas.
 
 ## **Justificativa**
 
@@ -59,7 +59,7 @@ Embora todas as pessoas possam se beneficiar de soluções para a moderação do
 
 [2] Gigawatt-hora, abreviado como GWh, é uma unidade de energia que representa um bilhão (1 000 000 000) de watt-hora e é equivalente a um milhão de quilowatt-hora. Os gigawatts-hora são frequentemente usados como uma medida da produção de grandes usinas de energia elétrica.
 
-[3] O quilowatt-hora é uma unidade de energia igual a 3600 quilojoules. O quilowatt-hora é comumente usado como uma unidade de cobrança da energia entregue aos consumidores pelas concessionárias de energia elétrica.
+[3] O quilowatt-hora é uma unidade de energia igual a 3600 quilo joules. O quilowatt-hora é comumente usados como uma unidade de cobrança da energia entregue aos consumidores pelas concessionárias de energia elétrica.
 
 [4] Conjunto de instalações e de equipamentos que possibilitam o suprimento de energia elétrica nas regiões do país interligadas eletricamente, conforme regulamentação aplicável.
 
@@ -82,63 +82,63 @@ Os *stakeholders* levantados foram classificados primeiramente em os que foram i
 
 **_Stakeholders_ de Produto** são todos aqueles afetados pela Aplicação da Web a ser desenvolvida. Os principais Stakeholders dessa classe são o **Público-Alvo**, como definido anteriormente. Porém, além deles também temos todos os que interagem, diretamente ou não, com a aplicação, trabalham utilizando os resultados obtidos pelo público-alvo, ou serão impactados pelos deploys e pela operação do produto. E são eles:
 
-•	Analista de Sistemas;
+* Analista de Sistemas;
 
-•	Analista de Testes;
+* Analista de Testes;
 
-•	Analista do Banco de dados;
+* Analista do Banco de dados;
 
-•	Desenvolvedor front-end;
+* Desenvolvedor front-end;
 
-•	Gerente de Projeto;
+* Gerente de Projeto;
 
-•	Web designer;
+* Web designer;
 
 Os **_Stakeholders_ de projeto** são todos aqueles que tem interesse no sucesso do projeto no qual a aplicação da Web está sendo desenvolvida. É de responsabilidade deles o cumprimento de prazos, custos determinados e como a aplicação está sendo desenvolvida. E são eles:
 
-•	Analista do Banco de dados;
+* Analista do Banco de dados;
 
-•	Analista de Sistemas;
+* Analista de Sistemas;
 
-•	Gerente de Projeto;
+* Gerente de Projeto;
 
 Após a classificação de impacto por produto ou projeto, os Stakeholders foram classificados pelo grau de envolvimento, necessários, de cada um deles. Foram utilizados **três graus** de envolvimento:
 
 **1-Grau de dependência:** onde são identificados aqueles pelos quais a aplicação da Web requer a interferência direta, para a sua continuidade. Sendo eles:
 
-•	Agência Nacional de Energia Elétrica- ANEEL;
+* Agência Nacional de Energia Elétrica- ANEEL;
 
-•	Analista de Sistemas;
+* Analista de Sistemas;
 
-•	Analista do Banco de dados;
+* Analista do Banco de dados;
 
-•	Analista de Testes;
+* Analista de Testes;
 
-•	Desenvolvedor front-end;
+* Desenvolvedor front-end;
 
-•	Distribuidoras do setor elétrico da região Sudeste do Brasil;
+* Distribuidoras do setor elétrico da região Sudeste do Brasil;
 
-•	Fabricantes de Eletrônicos;
+* Fabricantes de Eletrônicos;
 
-•	Gerente de Projeto;
+* Gerente de Projeto;
 
-•	Público-Alvo;
+* Público-Alvo;
 
-•	Web Designer;
+* Web Designer;
 
 **2-Grau de participação:** são todos aqueles que devem ser consultados para a tomada de decisões, que demandam um conhecimento técnico específico. Essas decisões são relacionadas apenas às áreas de especialidade. Eles são:
 
-•	Desenvolvedor front-end;
+* Desenvolvedor front-end;
 
-•	Fabricantes de Eletrônicos;
+* Fabricantes de Eletrônicos;
 
-•	Web designer;
+* Web designer;
 
 **3-Grau de interferência:** são todos aqueles que tomam a decisão final em relação a algum assunto.
 
-•	Gerente de Projeto;
+* Gerente de Projeto;
 
-•	Público-Alvo;
+* Público-Alvo;
 
 Agora que foram mapeados e classificados os _Stakeholders_, deve-se explanar qual o envolvimento e as necessidades de cada um deles. Com isso, criamos uma tabela simples, como no exemplo abaixo:
 
