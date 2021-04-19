@@ -50,25 +50,23 @@ Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as 
 |RNF-08 | Existem três tipos de utilizadores com níveis de permissão diferentes: utilizador registrado, utilizador não registrado, utilizador tipo administrador | ALTA |
 |RNF-09 | O utilizador registrado tem acesso livre ao sistema e pode registrar e consultar dados. Além de gerir dados pessoais, diários ou mensais de consumo elétrico, associados a cada aparelho elétrico, em formato de relatórios. Os relatórios devem exibir funções que permitam a inserção e eliminação de itens. As características relevantes de cada item devem ser consideradas na _interface_ | ALTA |
 |RNF-10 |	O utilizador do tipo não registrado poderá consultar dados do sistema. E terá a possibilidade de efetuar autonomamente o seu registo | ALTA |
-|RNF-11 |  | |
-|RNF-12  | |  |
-|RNF-13  | |  |
-|RNF-14  | |  |
-|RNF-15  | |  |
-|RNF-16  | |  |
-|RNF-17  | | |
-|RNF-18  | | |
-|RNF-19  | | |
-|RNF-20  | | |
-|RNF-21  | | |
+|RNF-11 | O utilizador tipo administrador depois de acessar o sistema mediante um controlo de acesso válido poderá gerir uma lista de usuários e aparelhos elétricos. Para a lista devem existir funções que permitam a inserção e eliminação de itens. As características relevantes de cada item devem ser consideradas na _interface_ | ALTA |
+|RNF-12 | O utilizador administrador poderá criar outros utilizadores administradores | MÉDIA |
+|RNF-13 | Cada um dos aparelhos eletrônicos da lista deverá existir a possibilidade de autorizar ou não a sua disponibilidade aos utilizadores registrados/não registrados. Isto permitirá que utilizadores registrados adicionem aparelhos inexistentes, e que os Utilizadores Administradores apenas os disponibilizarem ao acesso geral quando assim o entenderem | ALTA |
+|RNF-14 | O sistema deverá permitir que os utilizadores registados alterem a sua senha de acesso e quaisquer outras configurações pessoais | ALTA |
+|RNF-15 | O sistema deverá avisar o utilizador de qualquer erro que eventualmente surja | ALTA |
+|RNF-16 | A aplicação deve notificar o utilizador registrado quando a lista de aparelhos eletrônicos, para determinado cômodo não estiver atualizada. O tempo de desatualizarão poderá ser configurado | MÉDIA |
+|RNF-17 | O acesso ao sistema deverá ficar registado num ficheiro de log | ALTA |
+|RNF-18 | Cada utilizador sujeito a controle de acesso deverá ser informado da data e hora do seu último Login. | BAIXA |
+|RNF-19 | Um controle de acesso falhado por três vezes deverá invalidar o acesso ao sistema para esse utilizador e originar o envio de uma notificação ao utilizador administrador | ALTA |
 
 ### **Requisitos não Funcionais**
 
 Os Requisitos não funcionais da Aplicação de Web são relacionados com a forma que as funcionalidades serão entregues ao usuário. Neste projeto o conjunto de requisitos não funcionais se classificam pela usabilidade, confiabilidade, desempenho e manutenção. Estes requisitos são apresentados na tabela a seguir, com suas prioridades:
 
 
-|ID   | Descrição do Requisito  |Prioridade |
-|-----|-------------------------|-----------|
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|-----------|
 |RNF-01 | A aplicação deverá ter uma interface simples e interativa para motivar e facilitar a sua utilização | ALTA | 
 |RNF-02 | Uma vez que a interface se destina a ser apresentado num browser impõe-se a compatibilidade com os navegadores web mais comuns (Google Chrome, Microsoft Edge, Netscape Navigator, Safari, Opera, Mozilla Firefox, Internet Explorer) | ALTA | 
 |RNF-03 | A informação gerida pelo sistema, em princípio, será crítica para o desempenho da atividade de gerar relatórios e acompanhamento dos registros. Portanto, é absolutamente fundamental garantir a máximo nível de confiabilidade da aplicação e níveis de consistência dos dados. Todos os requisitos indicados devem ter funcionamento assegurado livre de qualquer erro | ALTA |
@@ -82,7 +80,7 @@ Os Requisitos não funcionais da Aplicação de Web são relacionados com a form
 
 ## **Restrições**
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
