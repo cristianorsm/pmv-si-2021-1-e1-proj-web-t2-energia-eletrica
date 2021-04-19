@@ -1,6 +1,6 @@
 # Referências
 
-Agência Nacional de Energia Elétrica (Brasil). Por dentro da conta de luz: informação de utilidade pública/Agência Nacional de Energia Elétrica. 7. ed. - Brasília: ANEEL, 2016. (Disponível em :https://www.aneel.gov.br/documents/656877/14913578/Por+dentro+da+conta+de+luz/9b8bd858-809d-478d-b4c4-42ae2e10b514)
+Agência Nacional de Energia Elétrica (Brasil). Por dentro da conta de luz: informação de utilidade pública/Agência Nacional de Energia Elétrica. 7. ed. - Brasília: ANEEL, 2016. (Disponível em: https://www.aneel.gov.br/documents/656877/14913578/Por+dentro+da+conta+de+luz/9b8bd858-809d-478d-b4c4-42ae2e10b514)
 
 
 Copel Pura Energia. Consumo residencial de energia teve alta de 5,5% em 2020. Copel Pura Energia, 2021. Disponível em: <https://www.copel.com/hpcweb/consumo-residencial-de-energia-teve-alta-de-55-em-2020/(link)>. Acesso em: 10 abril 2021.
@@ -9,7 +9,7 @@ Engie. Consumo de energia em 2020: o que ele mostra sobre o país. Engie, 2021. 
 
 Epe. Anuário Estatístico de energia Elétrica. Epe, 2020. Disponível em: <https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/topico-168/EPEFactSheetAnuario.pdf>. Acesso em 10 abril 2021.
 
-Federação das Indústrias do Rio de Janeiro (Firjan). Pesquisa e Estudos Socioeconômicos. Quanto custa a energia elétrica para a pequena e média indústria no Brasil? Publicações Sistema Firjan. Rio de Janeiro – Brasil, 2017.
+Federação das Indústrias do Rio de Janeiro (Firjan). Pesquisa e Estudos Socioeconômicos. Quanto custa a energia elétrica para a pequena e média indústria no Brasil? Publicações Sistema Firjan. Rio de Janeiro – Brasil, 2017. Disponível em: https://www.firjan.com.br/publicacoes/publicacoes-de-economia/quanto-custa-a-energia-eletrica.htm
 
 FILHO, Antonio Mendes da Silva. Requisitos Não Funcionais e Arquitetura de Software. Dev Media, 2008. Disponível em: https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525. Acesso em: 15 abril 2021.
 
