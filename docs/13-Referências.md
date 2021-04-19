@@ -32,7 +32,7 @@ MANESCO, Maira. Quem são os stakeholders?. Race Comunicação, 2013. Disponíve
 
 Procel Info. Relatório de Avaliação do Mercado de Eficiência Energética no Brasil. Procel Info, 2005. Disponível em: http://www.procelinfo.com.br/main.asp?View=%7B5A08CAF0-06D1-4FFE-B335-95D83F8DFB98%7D&Team=&params=itemID=%7B99EBBA5C-2EA1-4AEC-8AF2-5A751586DAF9%7D;&UIPartUID=%7B05734935-6950-4E3F-A182-629352E9EB18%7D. Acesso em 25 março 2021.
 
-RODRIGUES, Marcos Antônio de Aquino. A importância do gerenciamento de stakeholders para o alcance dos objetivos do projeto. Anais do V SINGEP. São Paulo/SP: 2016. Disponível em: 359.pdf (singep.org.br).
+RODRIGUES, Marcos Antônio de Aquino. A importância do gerenciamento de stakeholders para o alcance dos objetivos do projeto. Anais do V SINGEP. São Paulo/SP: 2016. Disponível em: http://www.singep.org.br/5singep/resultado/359.pdf. Acesso em: 16 abril 2021.
 
 SILVA, David Costa Correia. RODRIGUES, Marcos. Análise da Eficiência no consumo de Energia dos Estados Brasileiros. 2016. Disponível em: http://repositorio.ipea.gov.br/bitstream/11058/6535/5/ppp_n46_analise_da_eficiencia.pdf. Acesso em: 16 abril 2021.
 
