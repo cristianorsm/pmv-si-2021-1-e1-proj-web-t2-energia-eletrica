@@ -24,7 +24,7 @@ Doravante à análise das personas identificadas, com a compreensão de seus há
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |..PARA ... `MOTIVO/VALOR`..                     |
 |--------------------|------------------------------------|----------------------------------------        |
-|Bruno Silva | Manter um registro de consumo de aparelhos elétricos, que mais utiliza | Economizar energia; otimizar o uso dos aparelhos; verificar a necessidade de substituir os aparelhos que mais implacam mensalmente na conta.|
+|Bruno Silva | Manter um registro de consumo de aparelhos elétricos, que mais utiliza | Economizar energia; otimizar o uso dos aparelhos; verificar a necessidade de substituir os aparelhos que mais impactam mensalmente na conta.|
 |Bruno Silva | Entender os valores de cobrança | Entender o consumo individual de cada aparelho. |
 |Beatriz Nunes | Meios de controles, no gasto de energia elétrica mensal | Diminuir valor da conta de energia. |  
 |Elisane Melo Leite | Identificar melhor o novo padrão de gasto de energia elétrica em seu domicílio     | Economizar no pagamento de suas contas de luz e também desempenhar uma responsabilidade social uma vez que a fonte principal de energia elétrica advém de recursos naturais |
@@ -42,7 +42,7 @@ Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as 
 |-------|-------------------------|-----------|
 |RNF-01 | Como função básica o sistema deverá permitir o usuário consultar os modelos de aparelhos eletrônicos residenciais e adicionar aparelhos inexistentes | ALTA | 
 |RNF-02 | A consulta por aparelho eletrônico requererá a inclusão da: a) Quantidade de aparelhos; b) Tempo de Uso de horas/dia; c) Potência; d) Opções de aparelhos mais comuns sugeridos | ALTA | 
-|RNF-03 | A adição de aparelhos inexistentes requererá a inclusão: a) Nome do aparelho; b) Quantidade; c) Tempo de uso, horas/dia; d) Potência;Gerar relatório de consumo | MÉDIA |
+|RNF-03 | A adição de aparelhos inexistentes requererá a inclusão: a) Nome do aparelho; b) Quantidade; c) Tempo de uso, horas/dia; d) Potência; | MÉDIA |
 |RNF-04 | O registro do usuário, com a geração de um _Login_ e Senha requererá: a) Nome; b) Idade; c) Sexo; d) Localização (Bairro, Cidade e Estado), e) Profissão; f) endereço eletrônico. As funções que permitem a geração de dados diários/mensais e suas alterações, no sistema deverão apenas estar acessíveis/visíveis quando for inserida um _login_ e uma senha válidos | ALTA |
 |RNF-05 | O sistema apresentará um menu de acesso ao usuário com subdivisões por cômodos: a) Sala; b) Quarto; c) cozinha; d) escritório; e) banheiro; f) lavanderia; g) garagem; h) área externa | ALTA |
 |RNF-06 | O sistema apresentará um Menu com um conteúdo de boas práticas sobre o consumo de energia elétrica | ALTA |
@@ -68,7 +68,7 @@ Os Requisitos não funcionais da Aplicação de Web são relacionados com a form
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
 |RNF-01 | A aplicação deverá ter uma interface simples e interativa para motivar e facilitar a sua utilização | ALTA | 
-|RNF-02 | Uma vez que a interface se destina a ser apresentado num browser impõe-se a compatibilidade com os navegadores web mais comuns (Google Chrome, Microsoft Edge, Netscape Navigator, Safari, Opera, Mozilla Firefox, Internet Explorer) | ALTA | 
+|RNF-02 | Uma vez que a interface se destina a ser apresentado num _browser_ impõe-se a compatibilidade com os navegadores web mais comuns (Google Chrome, Microsoft Edge, Netscape Navigator, Safari, Opera, Mozilla Firefox, Internet Explorer) | ALTA | 
 |RNF-03 | A informação gerida pelo sistema, em princípio, será crítica para o desempenho da atividade de gerar relatórios e acompanhamento dos registros. Portanto, é absolutamente fundamental garantir a máximo nível de confiabilidade da aplicação e níveis de consistência dos dados. Todos os requisitos indicados devem ter funcionamento assegurado livre de qualquer erro | ALTA |
 |RNF-04 | A segurança dos dados é também importante, sendo fundamental a proteção das informações contra acessos não autorizados | ALTA |
 |RNF-05 | A utilização do sistema a partir da _internet_, que implica equipamento físico que ultrapassa o âmbito do projeto, pode levar a que determinadas operações demorem um tempo não desprezável | MÉDIA |
