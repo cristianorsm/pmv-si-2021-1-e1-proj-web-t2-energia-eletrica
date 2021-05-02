@@ -5,7 +5,7 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-
+-------------
 De forma geral, a metodologia de trabalho adotada neste projeto priorizou dois aspectos fundamentais: simplicidade de execução e produtividade otimizada. Além destes pontos fundamentais foram comtemplados processos que possibilitassem a colaboração e interação de toda a equipe durante todo o percurso de desenvolvimento de cada etapa do projeto. Para tanto, em momentos específicos, tarefas são distribuídas entre os membros da equipe onde um integrante é determinado para capitanear um tópico específico baseado na sua aptidão, disponibilidade e interesse. Entretanto, todos os membros do time são convidados e encorajados a contribuir em todos os tópicos do projeto. É importante observar que desta forma todos os membros do grupo estão continuamente trabalhando em um tópico sob sua responsabilidade direta e, ao mesmo tempo, colaborando para o aperfeiçoamento dos tópicos produzidos sob a liderança de outros colegas.
 
 Nesse contexto, para permitir o fluxo contínuo do trabalho em equipe foi optado por um modelo de versionamento distribuído. Como explicitado em mais detalhes abaixo, o ambiente principal para gerenciamento de trabalho assim como as ferramentas de versionamento utilizadas foram o GitHub e Git.
