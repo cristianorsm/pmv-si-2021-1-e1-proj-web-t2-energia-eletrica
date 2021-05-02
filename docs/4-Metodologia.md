@@ -39,6 +39,18 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
+
+---------------
+A configuração do modelo de fluxo de trabalho utilizada pelo grupo segue basicamente o proposto nas configurações de Fluxo de Trabalho Centralizado, sendo que em alguns tópicos específicos o modelo de Ramificação de Recurso poderá ser preferido.
+
+Para o fluxo de trabalho centralizado a equipe usa um repositório central como único ponto de entrada para todas as mudanças no projeto. Assim, cada membro implementa suas edições em um repositório local, independente do repositório principal. Depois que o repositório local tiver novas mudanças confirmadas, essas mudanças deverão ser incorporadas _(“commit” e “push”)_ ao repositório principal para compartilhamento com outros desenvolvedores no projeto. Neste momento o membro responsável pela atualização solicita a colaboração dos demais membros da equipe através de _pull requests_. Os pontos críticos ("_issues_") são discutidos baseados nas fundamentações oferecidas nas próprias _pull-requests_ onde toda a equipe opina e decide pela versão final.
+
+Nos casos em que a configuração utilizada for a Ramificação de Recursos, que basicamente é uma derivação do fluxo de trabalho centralizado porém utilizando _“branches”_ de temas específicos (ramificação dedicada), após a atualização do tema _(“commit”)_ segue-se o fluxo já explicitado no parágrafo acima. Ou seja, são solicitadas _“pull-requests”_ para encorajar a colaboração de todo o time. Em caso de divergências , estas são igualmente fundamentadas para análise e decisão da versão final por todo o grupo.
+
+
+
+
+
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
 > - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
