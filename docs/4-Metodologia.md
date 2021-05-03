@@ -72,6 +72,22 @@ Apresente a divisão de papéis entre os membros do grupo.
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
+---------------
+Neste projeto utiliza-se a metodologia derivada do famework SCRUM visando uma operação mais ágil e o fortalecimento das entregas, sem perder qualidade. Este método de trabalho dá flexibilidade de divisão de tarefas pela equipe e ao mesmo tempo otimiza a exploração de habilidades específicas dos seus integrantes. No entanto, também existem responsabilidades definidas, eventos com sua respectiva duração, controle dos artefatos que são produzidos e regras de execusão.
+
+Assim, todo nosso processo de trabalho baseia-se em três pontos fundamentais derivados do método SCRUM:
+TRANSPARÊNCIA - todos os membros da equipe têm conhecimento do que precisa ser feito, dos processos e do andamento do projeto, praticamente em tempo real.
+
+INSPEÇÃO - o tempo todo, assim como no SCRUM, tudo é inspecionado, seja nas reuniões diárias ou na Sprint Review, que onde revisamos o que produzimos ao longo do Sprint.
+
+ADAPTAÇÃO - o produto que está sendo construído no projeto, sofre adaptação constante conforme as mudanças vão acontecendo, correções de rota, resolução de problemas ou esclarecimentos.
+
+Para a gerência do trabalho, adotamos a mesma estrutura recomendada pelo SCRUM, com a divisão de funções em _Product Owner, Scrum Master e Equipe de Desenvolvimento_. O Product Owner aqui tem papel central na garantia de um processo ágil. Pois é o responsável por gerenciar o product _backlog do projeto_, estratificando em _sprints_ os passos de desenvolvimento. Em nosso time todos assumem, de alguma forma, parte na equipe de desenvolvimento. E o Scrum Master é decido a cada nova etapa a ser vencida. 
+
+As reuniões diárias sugeridas pelo _framework_ foram adaptadas para discussões por via digital em grupo quase diariamente. E, semanalmente, uma grande reunião de atualização e fechamento de _sprints_ é realizada em conjunto com todo o grupo.
+
+O acompanhamento do status do geral projeto é feito pelo monitoramento das _sprints_ e para isso o grupo utiliza o GitHub como ferramenta online e repositório de todo o processo.
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -83,7 +99,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
+- Editor de código
 - Ferramentas de comunicação
 - Ferramentas de diagramação
 
