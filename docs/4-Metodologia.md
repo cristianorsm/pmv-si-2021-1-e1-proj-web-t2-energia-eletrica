@@ -101,26 +101,19 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código
 - Ferramentas de comunicação
-- Ferramentas de diagramação
+- Ferramenta de diagramação
+- Software para criar protótipos e especificações para sites e aplicativos
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+O editor de código _VISUALCODE_ foi escolhido, pois possui integração facilitada com o sistema de controle de versionamento.???
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+Para criar o _User Flow_ utilizamos a ferramenta _Diagram Software_ e _Flowchart Maker_, por ser uma tecnologia open-source para a construção de aplicativos de diagramação e por ser o software de diagramação mais usado do mundo. Utilizamos o _Axure RP 10_, para criar protótipos e especificações para o _Wireframe_, por oferecer posicionamento de arrastar e soltar, redimensionamento e formatação de widgets.
 
--------------
-O editor de código utilizado neste projeto foi o VISUALCODE (?) pois possui integração facilitada com o sistema de controle de versionamento.
+As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas.
 
 Para comunicação o grupo utiliza basicamente três ferramentas principais:
 1 – Whatsapp – para as discussões mais frequentes (quase diárias) e para troca de informações mais curtas e pontuais;
 2 – Microsoft TEAMS – para as reuniões estratégicas e encontros regulares semanais. Este ambiente proporciona a interação direta do grupo e troca de material eletrônico em forma de documentos e links;
 3 – GitHub – para a exposição de idéias e sugestão de ajustes nas atividades desenvolvidas. Neste caso, o registro de comentários diretamente nas pull requests e atrelados a detalhes específicos permite maior precisão das explicações.
-
-Para diagramação a equipe de desenvolvimento utilizou as ferramentas _Diagram Software_ e _Flowchart Maker_ para preparação do _Userflow_. Enquanto que os _Wireframes_ foram preparados com auxílio das ferramentas....(?)
-
 
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
