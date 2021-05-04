@@ -65,7 +65,7 @@ Nos casos em que a configuração utilizada for a Ramificação de Recursos, que
 Apresente a divisão de papéis entre os membros do grupo.
 
 
-O processo de desenvolvimento do projeto está sendo baseado na metodologia ágil SCRUM. 
+O processo de desenvolvimento do projeto está sendo baseado na famework SCRUM. 
 
   A Equipe organizou- se da seguinte maneira: 
 
