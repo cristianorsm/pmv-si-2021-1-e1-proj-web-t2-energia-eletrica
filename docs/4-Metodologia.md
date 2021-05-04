@@ -88,6 +88,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 Neste projeto utiliza-se a metodologia derivada do famework SCRUM visando uma operação mais ágil e o fortalecimento das entregas, sem perder qualidade. Este método de trabalho dá flexibilidade de divisão de tarefas pela equipe e ao mesmo tempo otimiza a exploração de habilidades específicas dos seus integrantes. No entanto, também existem responsabilidades definidas, eventos com sua respectiva duração, controle dos artefatos que são produzidos e regras de execusão.
 
 Assim, todo nosso processo de trabalho baseia-se em três pontos fundamentais derivados do método SCRUM:
+
 TRANSPARÊNCIA - todos os membros da equipe têm conhecimento do que precisa ser feito, dos processos e do andamento do projeto, praticamente em tempo real.
 
 INSPEÇÃO - o tempo todo, assim como no SCRUM, tudo é inspecionado, seja nas reuniões diárias ou na Sprint Review, que onde revisamos o que produzimos ao longo do Sprint.
