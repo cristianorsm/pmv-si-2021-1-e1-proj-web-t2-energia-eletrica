@@ -9,7 +9,7 @@ Nesta estapa do projeto apresentamos uma visão geral da interação do usuário
 
 O diagrama apresentado na Figura abaixo mostra o fluxo de interação do usuário pelo sistema. O mapeamento alinha os caminhos e ações que o usuário pode fazer na utilização da Aplicação Web. 
 
-![Uai Energy Userflow](https://user-images.githubusercontent.com/61883996/117143614-657fda00-ad87-11eb-855a-c6d919601602.png)
+![Uai Energy Userflow (1)](https://user-images.githubusercontent.com/61883996/117144666-914f8f80-ad88-11eb-8fa7-dd884306910a.png)
 
 ## Wireframes
 
