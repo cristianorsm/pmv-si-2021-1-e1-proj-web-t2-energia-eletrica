@@ -17,6 +17,15 @@ Nas ilustrações abaixo apresentamos os Wireframes, ilustração semelhante do 
 
 ![Uai Energy 1-2](https://user-images.githubusercontent.com/61883996/117573007-10580700-b0ac-11eb-90e4-30aace24083a.jpg)
 ![Uai Energy 3-4](https://user-images.githubusercontent.com/61883996/117573009-1221ca80-b0ac-11eb-8e8e-c9f4d1ba1bbf.jpg)
-![Uai Energy 5-6](https://user-images.githubusercontent.com/61883996/117573012-13eb8e00-b0ac-11eb-9827-a96744291d6d.jpg)
-![Uai Energy 7-8](https://user-images.githubusercontent.com/61883996/117573013-15b55180-b0ac-11eb-97d1-2b8040239fc7.jpg)
-![Uai Energy 09](https://user-images.githubusercontent.com/61883996/117573014-16e67e80-b0ac-11eb-8936-fbabde0ecb69.jpg)
+![Uai Energy 5-6](https://user-images.githubusercontent.com/61883996/117575839-e574af80-b0b9-11eb-8828-a94a75959a1f.jpg)
+![Uai Energy 7-8](https://user-images.githubusercontent.com/61883996/117575842-e73e7300-b0b9-11eb-8577-264ddf1f7cbb.jpg)
+![Uai Energy 9-10](https://user-images.githubusercontent.com/61883996/117575843-e9083680-b0b9-11eb-813b-7e900b55b28b.jpg)
+![Uai Energy 11-12](https://user-images.githubusercontent.com/61883996/117575848-ead1fa00-b0b9-11eb-9da6-63feda2bdae6.jpg)
+![Uai Energy 13-14](https://user-images.githubusercontent.com/61883996/117575849-ec9bbd80-b0b9-11eb-815f-4bd408fd468c.jpg)
+![Uai Energy 15-16](https://user-images.githubusercontent.com/61883996/117575853-ef96ae00-b0b9-11eb-90a8-3d0f8a3c76e6.jpg)
+![Uai Energy 17-18](https://user-images.githubusercontent.com/61883996/117575857-f1f90800-b0b9-11eb-821f-14ea93985db8.jpg)
+![Uai Energy 19-20](https://user-images.githubusercontent.com/61883996/117575863-f45b6200-b0b9-11eb-8768-19df0f360e77.jpg)
+![Uai Energy 21-22](https://user-images.githubusercontent.com/61883996/117575866-f6bdbc00-b0b9-11eb-89d7-b0ba0c44791c.jpg)
+![Uai Energy 23-24](https://user-images.githubusercontent.com/61883996/117575870-f9201600-b0b9-11eb-96d7-e6f47b4d1199.jpg)
+![Uai Energy 25-26](https://user-images.githubusercontent.com/61883996/117575874-fc1b0680-b0b9-11eb-96a1-99f32bc6ebad.jpg)
+
