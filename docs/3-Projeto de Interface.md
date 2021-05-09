@@ -15,19 +15,8 @@ O diagrama apresentado na Figura abaixo mostra o fluxo de interação do usuári
 
 Nas ilustrações abaixo apresentamos os Wireframes, ilustração semelhante do layout de elementos fundamentais na interface, do Uai-Energy. Ou seja, protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. 
 
-
-
-
-EXEMPLO:
-
-![Exemplo de Wireframe](img/wireframe-example.png)
-
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![Uai Energy 1-2](https://user-images.githubusercontent.com/61883996/117573007-10580700-b0ac-11eb-90e4-30aace24083a.jpg)
+![Uai Energy 3-4](https://user-images.githubusercontent.com/61883996/117573009-1221ca80-b0ac-11eb-8e8e-c9f4d1ba1bbf.jpg)
+![Uai Energy 5-6](https://user-images.githubusercontent.com/61883996/117573012-13eb8e00-b0ac-11eb-9827-a96744291d6d.jpg)
+![Uai Energy 7-8](https://user-images.githubusercontent.com/61883996/117573013-15b55180-b0ac-11eb-97d1-2b8040239fc7.jpg)
+![Uai Energy 09](https://user-images.githubusercontent.com/61883996/117573014-16e67e80-b0ac-11eb-8936-fbabde0ecb69.jpg)
