@@ -22,33 +22,33 @@ Tela - Crie sua conta: Tela para registro de um novo usuário no sistema.
 
 Tela - Entre em sua Conta: Tela para realizar o acesso autorizado no sistema.
 
-Tela - Log In: Tela demostrativa de acesso ao sistema autorizado.  
+Tela - Log In: Tela demonstrativa de acesso ao sistema autorizado.  
 ![Uai Energy 03-04](https://user-images.githubusercontent.com/61883996/118314003-e5b1e800-b4c9-11eb-8beb-076d125745b7.jpg)
 
-Tela - Entenda sua Conta de Luz: Tela demostrativa com Links para a visualização de páginas informativas sobre a conta de luz. 
+Tela - Entenda sua Conta de Luz: Tela demonstrativa com Links para a visualização de páginas informativas sobre a conta de luz. 
 
 Tela  - Seleção Aparelhos/Cômodos: Tela do Menu dos Aparelhos Eletroeletrônicos e Cômodos cadastrados no sistema.
 ![Uai Energy 05-06](https://user-images.githubusercontent.com/61883996/118314007-e77bab80-b4c9-11eb-9107-5e87524a0f1f.jpg)
 
 Tela  - Menu Cômodos: Tela do Layout dos Cômodos cadastrados no sistema, para acesso à lista de aparelhos eletroeletrônicos, separados em cômodos. 
 
-Tela - Sala: Tela demostrativa do cômodo Sala, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Sala: Tela demonstrativa do cômodo Sala, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 ![Uai Energy 07-08](https://user-images.githubusercontent.com/61883996/118314010-e9456f00-b4c9-11eb-81a7-af0546dd278e.jpg)
 
 
-Tela - Quarto: Tela demostrativa do cômodo Quarto, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Quarto: Tela demonstrativa do cômodo Quarto, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 
-Tela - Cozinha: Tela demostrativa do cômodo Cozinha, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Cozinha: Tela demonstrativa do cômodo Cozinha, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 ![Uai Energy 09-10](https://user-images.githubusercontent.com/61883996/118314019-ec405f80-b4c9-11eb-96ca-61127f239d82.jpg)
 
-Tela - Escritório: Tela demostrativa do cômodo Escritório, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Escritório: Tela demonstrativa do cômodo Escritório, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 
-Tela - Banheiro: Tela demostrativa do cômodo Banheiro, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Banheiro: Tela demonstrativa do cômodo Banheiro, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 ![Uai Energy 11-12](https://user-images.githubusercontent.com/61883996/118314029-eea2b980-b4c9-11eb-82bd-7496d7925d7f.jpg)
 
-Tela - Lavanderia: Tela demostrativa do cômodo Lavanderia, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Lavanderia: Tela demonstrativa do cômodo Lavanderia, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 
-Tela - Garagem: Tela demostrativa do cômodo Garagem, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
+Tela - Garagem: Tela demonstrativa do cômodo Garagem, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
 ![Uai Energy 13-14](https://user-images.githubusercontent.com/61883996/118314034-f1051380-b4c9-11eb-9117-986bea9d2de5.jpg)
 
 Tela - Área Externa: Tela demostrativa do cômodo Área Externa, com as ilustrações dos aparelhos eletroeletrônicos para seleção.
@@ -81,5 +81,5 @@ Tela - Consulta Registros por Cômodos/Eletroeletrônicos: Tela de visualizaçã
 Tela - Menu Consulta Registros por Cômodos/Eletroeletrônicos: Tela de acesso ao registros do sistema, dos usuários cadastrados, para consulta dos Relatórios de Consumo.
 ![Uai Energy 25-26](https://user-images.githubusercontent.com/61883996/118314077-011cf300-b4ca-11eb-8f64-11dc7fb34733.jpg)
 
-Telas - Relatórios por Cômodos/Eletroeletrônicos: Telas demostrativas dos Relatórios geridos pelo sistema, do consumo de energia elétrica do usuário cadastrado, por aparelho e por cômodos, com demostrativo do período de tempo dos registros e o valor do consumo em reais.
+Telas - Relatórios por Cômodos/Eletroeletrônicos: Telas demonstrativas dos Relatórios geridos pelo sistema, do consumo de energia elétrica do usuário cadastrado, por aparelho e por cômodos, com demonstrativo do período de tempo dos registros e o valor do consumo em reais.
 ![Uai Energy 27-28](https://user-images.githubusercontent.com/61883996/118314083-02e6b680-b4ca-11eb-9c14-320517ea9422.jpg)
