@@ -29,34 +29,25 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+A imagem a seguir ilustra a o fluxo do usuário em nossa solução. 
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+Assim que o usuário entra na plataforma, ele é apresentado à tela inicial (Tela 1) onde ele é confrontado com os Menus de acesso ao Sistema, "Entre aqui" ; "Registre aqui" ; "Simulador de Consumo"; "Registros" e "Entenda sua conta de Luz".
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+Caso ele opte por seguir por - "Registre Aqui" (Tela 1.1): ele é redirecionado para o registro de um usuário novo. Se clicar em "Entre aqui"(Tela 1.2), irá realizar o Log In. As duas (Telas 1.1 e 1.2) levam o usuário para a (Tela 2), tela demonstrativa de acesso ao sistema autorizado.
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Ao clicar no Menu "Entenda sua Conta de Luz" (Tela 2) - irá para a (Tela 3): Tela demonstrativa com Links para a visualização de páginas informativas sobre a conta de luz.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+Ao clicar no Menu "Registros" (Tela 2) - irá para a (Tela 5): Tela de acesso ao registros do sistema, pelos usuários cadastrados no sistema, para consulta dos Relatórios de Consumo mensal de energia elétrica, por cômdos ou aparelhos individuais. Se selecionar Menu Consulta "Registros por Cômodos" será redirecionado para os Relatórios (Tela 5.2) geridos pelo sistema, do consumo de energia elétrica do usuário cadastrado, por cômodos, com demonstrativo do período de tempo dos registros e o valor do consumo em reais. E se clicar em Menu Consulta "Registros por Eletroeletrônicos" será redirecionado para os Relatórios (Tela 5.1) geridos pelo sistema, do consumo de energia elétrica do usuário cadastrado, por aparelhos individuais, com demonstrativo do período de tempo dos registros e o valor do consumo em reais.
 
+Ao clicar no Menu "Simulador de Consumo" (Tela 2) - irá para a (Tela 4), para o Menu dos Aparelhos Eletroeletrônicos e Cômodos cadastrados no sistema:
+
+Se selecionar "Selecione os aparelhos eletroeletrônicos" irá para a (Tela 4.1) da lista em ordem alfabética, dos aparelhos eletroeletrônicos cadastrados no sistema. O usuário pode selecionar os aparelhos para iniciar o cadastro de controle de gastos de energia elétrica, por aparelho. Ao selecionar um aparelho o usuário encontra as (Telas 4.1.3/4.1.3.1), tela de registro no sistema, por usuários cadastrados, dos aparelhos eletroeletrônicos selecionados para gerar relatório de consumo/tela de registro no sistema, por usuários cadastrados, de aparelhos eletroeletrônicos, não existentes no sistema, selecionados para gerar relatório de consumo, respectivamente.
+Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.4), tela de visualização dos registros de consumo por mês, gerados pelo sistema, de acesso por usuários cadastrados no sistema. As (Telas 4.1.5 e 4.1.6) são telas de visualização dos registros de consumo por mês, gerados pelo sistema, de acesso à usuários não cadastrados no sistema.
+
+Se selecionar "Selecione os Cômodos" irá para a (Tela 4.2) tela do Layout dos Cômodos cadastrados no sistema, para acesso à lista de aparelhos eletroeletrônicos, separados em cômodos, para o usuário poder selecionar os aparelhos e iniciar o cadastro de controle de gastos de energia elétrica. Dependendo do cômodo que selecionar o usuário pode ser redirecionado para as (Telas 4.2.1-7), telas demonstrativas dos cômodos, com as ilustrações dos aparelhos eletroeletrônicos para seleção. Ao selecionar um aparelho eletroeletrônico, de cada cômodo correspondente, o usuário encontra a (Tela 4.2.8), tela de registro no sistema, por usuários cadastrados, dos aparelhos eletroeletrônicos, por cômodo, selecionados para gerar relatório de consumo.
+Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.2.9), tela de visualização dos registros de consumo por mês, gerados pelo sistema, de acesso por usuários cadastrados no sistema.
+
+![Arquitetura Solução](https://user-images.githubusercontent.com/61883996/118895147-f99b8680-b8db-11eb-8042-3e526b2fcb65.jpg)
 
 ## Tecnologias Utilizadas
 
