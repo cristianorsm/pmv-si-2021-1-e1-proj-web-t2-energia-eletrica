@@ -58,6 +58,11 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
+Assim como está acontecendo com as ferramentas de desenvolvimento, a estrutura de hospedagem do nosso site está baseada em plataforma gratuita de hospedagem.
+Partindo deste princípio a nossa aplicação será hospedada no Heroku. Plataforma de hospedagem em nuvem que suporta várias linguagens de programação.
+Enderção da aplicação:  www.herruko.aienergy.com.br
+
+
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 > **Links Úteis**:
