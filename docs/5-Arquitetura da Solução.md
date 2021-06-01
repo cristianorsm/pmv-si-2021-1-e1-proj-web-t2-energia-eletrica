@@ -1,35 +1,25 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ## Diagrama de componentes
 
 Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
 
-Exemplo: 
+Os componentes que fazem parte da solução são apresentados na Figura abaixo:
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
-
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+![Arquitetura solução](https://user-images.githubusercontent.com/61883996/120396708-687dd400-c30d-11eb-9386-1932851a66f3.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
+   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON.
+ - **API Setor Elétrico** - plataforma que permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
-> **Links Úteis**:
+>A imagem a seguir ilustra o fluxo do usuário em nossa solução. 
 >
-> - [Whimsical](https://whimsical.com/)
-
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. 
+>![Arquitetura Solução](https://user-images.githubusercontent.com/61883996/118895147-f99b8680-b8db-11eb-8042-3e526b2fcb65.jpg)
 
 Assim que o usuário entra na plataforma, ele é apresentado à tela inicial (Tela 1) onde ele é confrontado com os Menus de acesso ao Sistema, "Entre aqui" ; "Registre aqui" ; "Simulador de Consumo"; "Registros" e "Entenda sua conta de Luz".
 
@@ -46,8 +36,6 @@ Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.4), te
 
 Se selecionar "Selecione os Cômodos" irá para a (Tela 4.2) tela do Layout dos Cômodos cadastrados no sistema, para acesso à lista de aparelhos eletroeletrônicos, separados em cômodos, para o usuário poder selecionar os aparelhos e iniciar o cadastro de controle de gastos de energia elétrica. Dependendo do cômodo que selecionar o usuário pode ser redirecionado para as (Telas 4.2.1-7), telas demonstrativas dos cômodos, com as ilustrações dos aparelhos eletroeletrônicos para seleção. Ao selecionar um aparelho eletroeletrônico, de cada cômodo correspondente, o usuário encontra a (Tela 4.2.8), tela de registro no sistema, por usuários cadastrados, dos aparelhos eletroeletrônicos, por cômodo, selecionados para gerar relatório de consumo.
 Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.2.9), tela de visualização dos registros de consumo por mês, gerados pelo sistema, de acesso por usuários cadastrados no sistema.
-
-![Arquitetura Solução](https://user-images.githubusercontent.com/61883996/118895147-f99b8680-b8db-11eb-8042-3e526b2fcb65.jpg)
 
 ## Tecnologias Utilizadas
 
