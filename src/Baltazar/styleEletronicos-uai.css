@@ -62,13 +62,12 @@ header {
   flex-wrap: wrap;
   background-color: rgba(194, 226, 236, 0.77);
   width: 100%;
-  /* margin-left: auto;
-  margin-right: auto; */
 }
 
 header h1 {
   color: darkgreen;
   font-size: 50px;
+  margin-left: 100px;
 }
 
 .logo {

@@ -59,7 +59,7 @@ main {
   clear: both;
 }
 
-/* Box do texto deo card */
+/* Box de texto no rodape do card */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
