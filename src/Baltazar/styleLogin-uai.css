@@ -53,9 +53,9 @@ header {
   max-width: 200px;
   max-height: 150px;
 }
-header h1 {
+/* header h1 {
   color: darkgreen;
-}
+} */
 
 main h1 {
   color: darkgreen;
