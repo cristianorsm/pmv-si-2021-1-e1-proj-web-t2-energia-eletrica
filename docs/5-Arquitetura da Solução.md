@@ -39,9 +39,11 @@ Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.2.9), 
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Durante o desenvolvimento das páginas web foram utilizadas as seguintes ferramentas, a plataforma web Figma que é uma ferramenta de design colaborativa online e  um editor gráfico de prototipagem, foi utiliza para criar o design da aplicação web. 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Foi utilizado também o Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft disponível gratuitamente que tem uma grande aceitação pelas comunidades de desenvolvimento tecnológico  e suporta diversas linguagens em nível front-end e back-end. 
+
+utilizou-se também o Git que é um sistema de controle de versões, usado principalmente no desenvolvimento de software, que integrado com o servidor Github controlam o fluxo do projeto. 
 
 
 ## Hospedagem
