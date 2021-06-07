@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     max-height: 1024px;
-    max-width: 1440px;    
+    max-width: 1440px;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     font-weight: bold;
     padding: 0;
     margin: auto;
-    }
+}
 
 .Header {
     height: 123px;
@@ -94,7 +94,6 @@ body {
 }
 
 .block3 {
-
     height: 100px;
     mix-blend-mode: normal;
     width: 352px;
@@ -328,6 +327,7 @@ body {
     z-index: 5;
     mix-blend-mode: unset;
 }
+
 .exaustor {
     display: inline-block;
     cursor: pointer;
@@ -359,8 +359,6 @@ body {
     z-index: 5;
     mix-blend-mode: unset;
 }
-
-
 
 .Rodape {
     mix-blend-mode: normal;
