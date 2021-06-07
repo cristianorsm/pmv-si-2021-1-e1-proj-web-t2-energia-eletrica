@@ -1,0 +1,212 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    max-height: 1024px;
+    max-width: 1440px;}
+   
+   
+   
+   body {
+       position: relative;
+       width: 1440px;
+       height: 1024px;
+       background-color: #ffffff;
+       border: 1px solid rgba(10, 137, 177, 0.25);
+    
+       box-sizing: border-box;
+   }
+   
+   
+   
+   .cabecalho {
+       position: absolute;
+       width: 100%;
+       height: 121px;
+       left: 1px;
+       top: 2px;
+       background: rgba(10, 137, 177, 0.25);
+   }
+   h1 {
+       text-align: center;
+       color: green;
+       
+   }
+   .btn2 { 
+    padding: 10px;
+    margin: 10px 10px;
+    color: rgb(10, 10, 10);
+    background-color: rgba(10, 137, 177, 0.25);
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 250px;
+    right: 20px;
+    text-align: center;
+     border-radius: 10px;
+     border: solid 1px;
+     user-select: none;
+     cursor: pointer;
+     
+    }
+
+   .btn { 
+    padding: 10px;
+    margin: 10px 10px;
+    color: rgb(10, 10, 10);
+    background-color: rgba(10, 137, 177, 0.25);
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 150px;
+    right: 20px;
+    text-align: center;
+     border-radius: 10px;
+     border: solid 1px;
+     user-select: none;
+     cursor: pointer;}
+
+     .btn3 { 
+        padding: 10px;
+        margin: 10px 10px;
+        color: rgb(10, 10, 10);
+        background-color: rgba(10, 137, 177, 0.25);
+        position: absolute;
+        width: 250px;
+    
+        height: 50px;
+        top: 150px;
+        left: 500px;
+        text-align: center;
+         border-radius: 10px;
+         border: solid 1px;
+         user-select: none;
+         
+        
+
+   }
+   .btn4{ padding: 10px;
+    margin: 10px 10px;
+    color: rgb(10, 10, 10);
+    background-color: rgba(10, 137, 177, 0.25);
+    position: absolute;
+    width: 250px;
+
+    height: 50px;
+    top: 300px;
+    left: 5px;
+    text-align: center;
+     border-radius: 10px;
+     border: solid 1px;
+     user-select: none;
+
+   }
+
+   .btn:hover{ opacity: 0.7;}
+   .btn2:hover{ opacity: 0.7;}
+
+   .botao {
+       position: absolute;
+       width: 600px;
+       height: 200px;
+       left: 400px;
+       top: 300px;
+       background: rgba(10, 137, 177, 0.25);
+       border-radius: 20px;
+      
+   }
+   
+   main {
+       margin: 0 auto;
+       width: 980;
+       float: left;
+       position: relative;
+   }
+   
+   .logo {
+       position: absolute;
+       width: 430px;
+       height: 293px;
+       left: 0.0px;
+       margin-top: 0.0px;
+       background: url(/css/img/Logo.png);
+   }
+   
+
+   
+   
+   .comodo {
+       position: absolute;
+       width: 180px;
+       height: 30px;
+       left: 25px;
+       top: 300px;
+       background-color: rgba(10, 137, 177, 0.25)
+   }
+   
+   .fundo {
+       position: absolute;
+       height: 902px;
+       left: 18.61%;
+       right: 22.92%;
+       width: 842px;
+       margin-top: 1px;
+       border-radius: 97px;
+       background-image: url(/css/img/fundo.png);
+   }
+   
+   .rodape {
+       position: absolute;
+       width: 1440;
+       height: 121px;
+       left: 0px;
+       top: 902px;
+       background-color: rgba(10, 137, 177, 0.25);
+       border-radius: 15px;
+       text-align: center ;
+   }
+   
+   button {
+       background-color:rgba(10, 137, 177, 0.25);
+       width: 100%;
+       color: rgb(13, 14, 13);
+       padding: 15px;
+       margin: 10px 0px;
+       border: none;
+       cursor: pointer;
+       border-radius: 10px;
+       border: solid 1px;
+   }
+   
+   form {
+        border: 10px solid #f1f1f1;
+   }
+   
+   input[type="text"],
+   input[type="password"] {
+       width: 100%;
+       margin: 8px 0;
+       padding: 5px 5px;
+       
+       border: 2px solid rgb(13, 14, 13);
+       box-sizing: border-box;
+       border-radius: 10px;
+   }
+   
+   button:hover {
+       opacity: 0.7;
+   }
+   
+   .cancelbtn {
+       width: auto;
+       padding: 10px 18px;
+       margin: 10px 5px;
+   }
+   
+   .container {
+    padding: 30px 30px;
+    background: rgba(10, 137, 177, 0.25);
+    border-radius: 10px;
+    width: 600px;
+    height: 210px;  
+      }
+      
