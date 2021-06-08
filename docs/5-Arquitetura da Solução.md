@@ -45,6 +45,8 @@ O HTML5, como linguagem de marcação, para estruturas o conteúdo da aplicaçã
 
 Utilizou-se também o Git que é um sistema de controle de versões, usado principalmente no desenvolvimento de software, que integrado com o servidor Github para o controle do fluxo do projeto. 
 
+
+
 ## Hospedagem
 
 Assim como está acontecendo com as ferramentas de desenvolvimento, a estrutura de hospedagem do nosso site está baseada em plataforma gratuita de hospedagem.
