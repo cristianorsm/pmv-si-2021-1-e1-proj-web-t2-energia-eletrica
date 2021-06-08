@@ -39,12 +39,11 @@ Após ao clicar em "Adicionar" o usuário é redirecionado para a (Tela 4.2.9), 
 
 ## Tecnologias Utilizadas
 
-Durante o desenvolvimento das páginas web foram utilizadas as seguintes ferramentas, a plataforma web Figma que é uma ferramenta de design colaborativa online e  um editor gráfico de prototipagem, foi utiliza para criar o design da aplicação web. 
+Durante o desenvolvimento da Aplicação Web foram utilizadas as tecnologias: 
 
-Foi utilizado também o Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft disponível gratuitamente que tem uma grande aceitação pelas comunidades de desenvolvimento tecnológico  e suporta diversas linguagens em nível front-end e back-end. 
+O HTML5, como linguagem de marcação, para estruturas o conteúdo da aplicação web. O CSS, como mecanismo de adicionar estilos nas páginas HTML, a linguagem de programação JavaScript, para ser interpretado pelo browser. Utilizamos APIs WEB através de códigos JavaScript. O SVG, Gráficos Vetoriais Escaláveis (em inglês: Scalable Vector Graphics), para descrever as imagens como conjuntos de vetores e formas. O Visual Code foi o IDE de desenvolvimento escolhido, por ser open source, disponível em múltiplos ambientes: Windows, Linux e MacOs. Além de possuir o suporte o JavaScript, TypeScript, JSON, HTML, CSS, SCSS, e Less.
 
-utilizou-se também o Git que é um sistema de controle de versões, usado principalmente no desenvolvimento de software, que integrado com o servidor Github controlam o fluxo do projeto. 
-
+Utilizou-se também o Git que é um sistema de controle de versões, usado principalmente no desenvolvimento de software, que integrado com o servidor Github para o controle do fluxo do projeto. 
 
 ## Hospedagem
 
@@ -52,12 +51,4 @@ Assim como está acontecendo com as ferramentas de desenvolvimento, a estrutura 
 Partindo deste princípio a nossa aplicação será hospedada no Heroku. Plataforma de hospedagem em nuvem que suporta várias linguagens de programação.
 Enderção da aplicação:  www.herruko.aienergy.com.br
 
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+Para o _deploy_ o Heroku utiliza o Git.
