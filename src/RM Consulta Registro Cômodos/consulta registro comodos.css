@@ -37,15 +37,21 @@
     color: rgb(10, 10, 10);
     background-color: rgba(10, 137, 177, 0.25);
     position: absolute;
-    width: 250px;
-    height: 50px;
+    width: 200px;
+    height: 70px;
     top: 250px;
     right: 20px;
     text-align: center;
      border-radius: 10px;
-     border: solid 1px;
+     font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
      user-select: none;
      cursor: pointer;
+     
      
     }
 
@@ -55,64 +61,88 @@
     color: rgb(10, 10, 10);
     background-color: rgba(10, 137, 177, 0.25);
     position: absolute;
-    width: 250px;
-    height: 50px;
+    width: 200px;
+    height: 70px;
     top: 150px;
     right: 20px;
     text-align: center;
      border-radius: 10px;
-     border: solid 1px;
+     font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
      user-select: none;
-     cursor: pointer;}
+     cursor: pointer;
+    }
 
      .btn3 { 
-        padding: 10px;
+     padding: 10px;
         margin: 10px 10px;
         color: rgb(10, 10, 10);
         background-color: rgba(10, 137, 177, 0.25);
         position: absolute;
-        width: 250px;
-    
-        height: 50px;
+        width: 200px;
+        height: 70px;
         top: 150px;
         left: 500px;
         text-align: center;
          border-radius: 10px;
-         border: solid 1px;
-         user-select: none;
+         font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
+     user-select: none;
+    cursor: pointer;
          
         
 
    }
-   .btn4{ padding: 10px;
+   .btn4{ 
+    padding: 10px;
     margin: 10px 10px;
     color: rgb(10, 10, 10);
     background-color: rgba(10, 137, 177, 0.25);
     position: absolute;
-    width: 250px;
-
-    height: 50px;
+    width: 200px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
+    height: 70px;
     top: 300px;
     left: 5px;
     text-align: center;
      border-radius: 10px;
-     border: solid 1px;
+     cursor: pointer;
      user-select: none;
-
+     
    }
 
    .btn:hover{ opacity: 0.7;}
    .btn2:hover{ opacity: 0.7;}
+   .btn3:hover{ opacity: 0.7;}
+   .btn4:hover{ opacity: 0.7;}
+
 
    .botao {
        position: absolute;
-       width: 600px;
-       height: 200px;
+       width: 650px;
+       height: 400px;
        left: 400px;
-       top: 300px;
+       top: 270px;
        background: rgba(10, 137, 177, 0.25);
        border-radius: 20px;
-      
+       padding: 10px;
+       font-size: 20px;
+       font-family: "Mulish";
+       font-style: normal;
+       font-weight: bold;
    }
    
    main {
@@ -134,15 +164,7 @@
 
    
    
-   .comodo {
-       position: absolute;
-       width: 180px;
-       height: 30px;
-       left: 25px;
-       top: 300px;
-       background-color: rgba(10, 137, 177, 0.25)
-   }
-   
+      
    .fundo {
        position: absolute;
        height: 902px;
@@ -154,38 +176,31 @@
        background-image: url(/css/img/fundo.png);
    }
    
-   .rodape {
-       position: absolute;
-       width: 1440;
-       height: 121px;
-       left: 0px;
-       top: 902px;
-       background-color: rgba(10, 137, 177, 0.25);
-       border-radius: 15px;
-       text-align: center ;
-   }
+  
+   
    
    button {
-       background-color:rgba(10, 137, 177, 0.25);
-       width: 100%;
+       background-color:white;
+       width: 50%;
        color: rgb(13, 14, 13);
-       padding: 15px;
+       padding: 20px;
        margin: 10px 0px;
        border: none;
        cursor: pointer;
        border-radius: 10px;
        border: solid 1px;
+       
+    
+       
    }
    
-   form {
-        border: 10px solid #f1f1f1;
-   }
+  
    
    input[type="text"],
    input[type="password"] {
-       width: 100%;
+       width: 30%;
        margin: 8px 0;
-       padding: 5px 5px;
+       padding:  20px;
        
        border: 2px solid rgb(13, 14, 13);
        box-sizing: border-box;
@@ -202,11 +217,76 @@
        margin: 10px 5px;
    }
    
-   .container {
-    padding: 30px 30px;
-    background: rgba(10, 137, 177, 0.25);
-    border-radius: 10px;
-    width: 600px;
-    height: 210px;  
-      }
-      
+  
+    .tempodeuso{
+        padding: 10px;
+       
+
+    } 
+    #horas{
+        padding: 10px;
+        border-radius: 10px;
+    }
+    #minutos{
+        padding: 10px;
+        border-radius: 10px;
+
+    }
+    .potencia{
+        display: inline;
+        
+        
+    }
+    .aparelho{
+        padding: 10px;
+              
+     
+
+    }
+    #aparelho{ 
+        padding: 10px;
+        border-radius: 10px;
+    }
+    #quantidade{
+        padding: 10px;
+        
+        border-radius: 10px;
+    }
+    #comodo{padding: 10px;
+        border-radius: 10px;
+
+    }
+    select{
+        font-size: 20px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: bold;
+    }
+    .Rodape {
+        mix-blend-mode: normal;
+        position: absolute;
+        width: 359px;
+        height: 32px;
+        left: 541px;
+        top: 38px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+        color: #000000;
+        z-index: 8;
+    }
+    
+    .Footer {
+        height: 121px;
+        width: 1440px;
+        position: absolute;
+        left: 0px;
+        top: 903px;
+        background-color: rgba(10, 137, 177, 0.25);
+    }
+    
+
+    
