@@ -17,7 +17,8 @@
    }
    
    
-   .menu-principal {
+   
+   .cabecalho {
        position: absolute;
        width: 100%;
        height: 121px;
@@ -36,63 +37,79 @@
     color: rgb(10, 10, 10);
     background-color: rgba(10, 137, 177, 0.25);
     position: absolute;
-    width: 250px;
-    height: 50px;
-    top: 300px;
+    width: 200px;
+    height: 70px;
+    top: 150px;
     right: 20px;
     text-align: center;
      border-radius: 10px;
-     border: solid 1px;
+     font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
      user-select: none;
-     cursor: pointer;}
+     cursor: pointer;
+     
+     
+    }
 
    .btn { 
     padding: 10px;
     margin: 10px 10px;
-    color: rgb(10, 10, 10);
+   
     background-color: rgba(10, 137, 177, 0.25);
     position: absolute;
-    width: 250px;
-    height: 50px;
-    top: 200px;
-    right: 20px;
+    width: 200px;
+    height: 70px;
+    top: 150px;
+    right: 400px;
     text-align: center;
      border-radius: 10px;
-     border: solid 1px;
+     font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #008037;
      user-select: none;
-     cursor: pointer;}
+     cursor: pointer;
+    }
 
-     .btn3 { 
-        padding: 10px;
-        margin: 10px 10px;
-        color: rgb(10, 10, 10);
-        background-color: 0A89B1;
-        position: absolute;
-        width: 450px;
-        height: 70px;
-        top: 500px;
-        left: 1px;
-        text-align: center;
-         border-radius: 10px;
-         border: solid 1px;
-         user-select: none;
-         font-size: 40px;
+    
+         
         
 
-   }
+   
 
    .btn:hover{ opacity: 0.7;}
    .btn2:hover{ opacity: 0.7;}
+   .btn3:hover{ opacity: 0.7;}
+   .btn4:hover{ opacity: 0.7;}
+   
+.form{ position: absolute;
+    width: 700px;
+    height: 500px;
+    left: 350px;
+    top: 270px;
+    border-radius: 30px;
+
+}
 
    .botao {
        position: absolute;
-       width: 600px;
-       height: 400px;
-       left: 400px;
-       top: 150px;
-       background: rgba(10, 137, 177, 0.25);
-       border-radius: 20px;
+       width: 700px;
+       height: 450px;
+       left: 350px;
+       top: 270px;
       
+       border-radius: 20px;
+       padding: 10px;
+       font-size: 20px;
+       font-family: "Mulish";
+       font-style: normal;
+       font-weight: bold;
    }
    
    main {
@@ -114,15 +131,7 @@
 
    
    
-   .comodo {
-       position: absolute;
-       width: 180px;
-       height: 30px;
-       left: 25px;
-       top: 300px;
-       background-color: rgba(10, 137, 177, 0.25)
-   }
-   
+      
    .fundo {
        position: absolute;
        height: 902px;
@@ -134,39 +143,32 @@
        background-image: url(/css/img/fundo.png);
    }
    
-   .rodaPe {
-       position: absolute;
-       width: 1440;
-              height: 121px;
-       left: 0px;
-       top: 902px;
-       background-color: rgba(10, 137, 177, 0.25);
-       border-radius: 15px;
-       text-align: center ;
-   }
+  
+   
    
    button {
-       background-color:rgba(10, 137, 177, 0.25);
-       width: 100%;
+       background-color:white;
+       width: 50%;
        color: rgb(13, 14, 13);
-       padding: 15px;
+       padding: 20px;
        margin: 10px 0px;
        border: none;
        cursor: pointer;
        border-radius: 10px;
        border: solid 1px;
+       
+    
+       
    }
    
-   form {
-       border: 10px solid #f1f1f1;
-   }
+  
    
    input[type="text"],
    input[type="password"] {
-       width: 100%;
+       width: 30%;
        margin: 8px 0;
-       padding: 12px 20px;
-       display: inline-block;
+       padding:  20px;
+       
        border: 2px solid rgb(13, 14, 13);
        box-sizing: border-box;
        border-radius: 10px;
@@ -182,10 +184,170 @@
        margin: 10px 5px;
    }
    
-   .container {
-    padding: 30px 30px;
-    background-color: lightblue;
-    border-radius: 10px;
+  
+    .tempodeuso{
+        padding: 10px;
        
-      }
-      
+
+    } 
+    #horas{
+        padding: 10px;
+        border-radius: 10px;
+    }
+    #minutos{
+        padding: 10px;
+        border-radius: 10px;
+
+    }
+    .potencia{
+        display: inline;
+        
+        
+    }
+    .aparelho{
+        padding: 10px;
+              
+     
+
+    }
+    #aparelho{ 
+        padding: 10px;
+        border-radius: 10px;
+    }
+    #quantidade{
+        padding: 10px;
+        
+        border-radius: 10px;
+    }
+    #comodo{padding: 10px;
+        border-radius: 10px;
+
+    }
+    #watt{  padding: 10px;
+        
+        border-radius: 10px;
+        
+        
+    }
+    select{
+        font-size: 20px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: bold;
+    }
+    .Rodape {
+        mix-blend-mode: normal;
+        position: absolute;
+        width: 359px;
+        height: 32px;
+        left: 541px;
+        top: 38px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+        color: #000000;
+        z-index: 8;
+    }
+    
+    .Footer {
+        height: 121px;
+        width: 1440px;
+        position: absolute;
+        left: 0px;
+        top: 903px;
+        background-color: rgba(10, 137, 177, 0.25);
+    }
+    .registro{ 
+        margin: 8px 0;
+        border: solid 2px black;
+        border-radius: 15px;
+
+    }
+    
+    .block1 {
+        height: 70px;
+        mix-blend-mode: normal;
+        width: 208px;
+        position: absolute;
+        left: 891px;
+        top: 130px;
+        background-color: rgba(194, 226, 236, 0.77);
+        border: 1px solid #F8F8F8;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 8px;
+    }
+    
+    .block2 {
+        height: 70px;
+        mix-blend-mode: normal;
+        width: 208px;
+        position: absolute;
+        left: 1156px;
+        top: 130px;
+        background-color: rgba(194, 226, 236, 0.77);
+        border: 1px solid #F8F8F8;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 8px;
+    }
+    
+    .block3 {
+    
+        height: 100px;
+        mix-blend-mode: normal;
+        width: 352px;
+        position: absolute;
+        left: 347px;
+        top: 130px;
+        background-color: rgba(10, 137, 177, 0.53);
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 16px;
+    }
+    .Usuário {
+        height: 25px;
+        mix-blend-mode: normal;
+        width: 111px;
+        position: absolute;
+        left: 934px;
+        top: 156px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px;
+        color: #008037;
+        text-decoration: none;
+    }
+    
+    .Registre {
+        height: 54px;
+        mix-blend-mode: normal;
+        width: 116px;
+        position: absolute;
+        left: 1196px;
+        top: 140px;
+        font-family: "Mulish";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px;
+        color: #008037;
+        text-decoration: none;
+        text-align: center;
+    }
+    .Retangulo {
+        cursor: pointer;
+        height: 553px;
+        left: 0px;
+        position: absolute;
+        top: 318px;
+        width: 165px;
+        z-index: 5;
+    }
+    
