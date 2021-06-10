@@ -1,8 +1,8 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="aparelhosausentes.css">
-    <title>APARELHOS AUSENTES NO SISTEMA</title>
+    <link rel="stylesheet" href="consulta registro no dia.css">
+    <title>CONSULTA DE REGISTRO NO DIA</title>
 </head>
 
 <body>
@@ -26,10 +26,13 @@
           <ul class="nav-items">
               <button type="button" class="block1"></button>
               <button type="button" class="block2"></button>
+              <button type="button" class="block3"></button>
               
               <li>
-                  <a class="Usuário" href="/src/BaltazarDomingo/indexLogin-uai.html">USUÁRIO</a>
+                  <a class="entre" href="/src/BaltazarDomingo/indexLogin-uai.html">ENTRE AQUI</a>
+                  
                   <a class="Registre" href="/src/BaltazarDomingo/indexRegistre-uai.html">REGISTRE AQUI</a>
+                  <a class="consumo" href="#">CONSUMO</a>
                  
               </li>
           </ul>
@@ -46,18 +49,33 @@
         <div class="botao">
           
             
-              <div class="registro"> <h1>APARELHOS AUSENTES NO SISTEMA</h1></div>
+              
             <form>
             
                 
                     
                     
-              
-                
+                <div class=" comodo"><label for="comodo">CÔMODO:</label>
+                    <select id="comodo" name="comodo">
+                      <option value="SALA">SALA</option>
+                      <option value="COZINHA">COZINHA</option>
+                      <option value="BANHEIRO">BANHEIRO</option>
+                      <option value="GARAGEM">GARAGEM</option>
+                      <option value="ESCRITÓRIO">ESCRITÓRIO</option>
+                      <option value="LAVANDERIA">LAVANDERIA</option>
+                      <option value="ÁREA EXTERNA">ÁREA EXTERNA</option>
+                      
+                    </select>
+                </div>
                 <div class=" aparelho">
 
-                  <label>NOME:</label>
-                  <input type="text"  name="user" required />
+                    <label for="aparelho">APARELHO:</label>
+                    <select id="aparelho" name="aparelho">
+                      <option value="geladeira">GELADEIRA</option>
+                      <option value="fogão">FOGÃO</option>
+                      <option value="chuveiro">CHUVEIRO</option>
+                      <option value="tv">TV</option>
+                    </select>
 
                      <label for="quantidade">QUANTIDADE:</label>
                     <select id="quantidade" name="quantidade">
@@ -160,15 +178,12 @@
                              
                               
                             </select>
-                            <div class="quilo">
-                              <label for="potencia">POTÊNCIA:</label> 
+                            <div class="customes">
+                              <label for="customes">CUSTO/MÊS:</label> 
                               <input type="text"  name="user" required />
-                            <select id="watt" name="WATT">
-                              <option value="watt">WATT</option>
-                              <option value="quilowatt">KW</option>
-                             
-                              
-                            </select></div>
+                              <label for="tarifa">TARIFA:</label> 
+                              <input type="text"  name="user" required />
+                            </div>
                         </div>
                    
                    
@@ -186,7 +201,7 @@
         
 
 
-          <div class="retangulo"><img src="IMAGEM/Rectangle ELETRO.png" alt="eletronico"></div>           
+               
                                                    
                
                 
