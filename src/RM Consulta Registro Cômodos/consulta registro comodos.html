@@ -2,7 +2,7 @@
 
 <head>
     <link rel="stylesheet" href="consulta registro comodos.css">
-    <title>CONSULTA REGISTRO CÔMODOS</title>
+    <title>CONSULTA DE REGISTRO NO DIA</title>
 </head>
 
 <body>
@@ -21,7 +21,25 @@
 
         </main>
 
-        
+        <nav>
+
+          <ul class="nav-items">
+              <button type="button" class="block1"></button>
+              <button type="button" class="block2"></button>
+              <button type="button" class="block3"></button>
+              <button type="button" class="block4"></button>
+              
+              <li>
+                  <a class="entre" href="/src/BaltazarDomingo/indexLogin-uai.html">ENTRE AQUI</a>
+                  
+                  <a class="Registre" href="/src/BaltazarDomingo/indexRegistre-uai.html">REGISTRE AQUI</a>
+                  <a class="consumo" href="#">CONSUMO</a>
+                  <a class="registros" href="#">REGISTROS</a>
+                 
+                 
+              </li>
+          </ul>
+      </nav>
             
            
         
@@ -30,16 +48,29 @@
     
 
 
-
+    <div class="form"> <img src="IMAGEM/Rectangle 100 (1).png" alt="forma"></div>
         <div class="botao">
+          
             
-               
+              
             <form>
             
                 
                     
                     
-                    <div class=" aparelho">
+                <div class=" comodo"><label for="comodo">CÔMODO:</label>
+                    <select id="comodo" name="comodo">
+                      <option value="SALA">SALA</option>
+                      <option value="COZINHA">COZINHA</option>
+                      <option value="BANHEIRO">BANHEIRO</option>
+                      <option value="GARAGEM">GARAGEM</option>
+                      <option value="ESCRITÓRIO">ESCRITÓRIO</option>
+                      <option value="LAVANDERIA">LAVANDERIA</option>
+                      <option value="ÁREA EXTERNA">ÁREA EXTERNA</option>
+                      
+                    </select>
+                </div>
+                <div class=" aparelho">
 
                     <label for="aparelho">APARELHO:</label>
                     <select id="aparelho" name="aparelho">
@@ -68,68 +99,97 @@
                   
                
 
-                <div class=" comodo"><label for="comodo">CÔMODO:</label>
-                    <select id="comodo" name="comodo">
-                      <option value="SALA">SALA</option>
-                      <option value="COZINHA">COZINHA</option>
-                      <option value="BANHEIRO">BANHEIRO</option>
-                      <option value="GARAGEM">GARAGEM</option>
-                      <option value="ESCRITÓRIO">ESCRITÓRIO</option>
-                      <option value="LAVANDERIA">LAVANDERIA</option>
-                      <option value="ÁREA EXTERNA">ÁREA EXTERNA</option>
-                      
-                    </select>
-                </div>
+                
 
 
-                    <div class="tempodeuso">
-                        <label for="tempo de uso">TEMPO DE USO:</label>
-                        <select id="horas" name="horas">
-                          <option value="1 hora">1 HORA</option>
-                          <option value="2 horas">2 HORAS</option>
-                          <option value="3 horas">3 HORAS</option>
-                          <option value="4 horas">4 HORAS</option>
-                          <option value="5 horas">5 horas</option>
-                          <option value="6 horas">6 HORAS</option>
-                          <option value="7 horas">7 HORAS</option>
-                          <option value="8 horas">8 HORAS</option>
-                          <option value="9 horas">9 HORAS</option>
-                          <option value="10 horas">10 HORAS</option>
-                          <option value="11 horas">11 HORAS</option>
-                          <option value="12 horas">12 HORAS</option>
-                          <option value="13 horas">13 HORAS</option>
-                          <option value="14 horas">14 horas</option>
-                          <option value="15 horas">15 HORAS</option>
-                          <option value="16 horas">16 HORAS</option>
-                          <option value="17 horas">17 HORAS</option>
-                          <option value="18 horas">18 HORAS</option>
-                          <option value="19 horas">19 HORAS</option>
-                          <option value="20 horas">20 HORAS</option>
-                          <option value="21 horas">21 HORAS</option>
-                          <option value="22 horas">22 HORAS</option>
-                          <option value="23 horas">23 HORAS</option>
-                          <option value="24 horas">24 HORAS</option>
-
-
-                        </select>
-                        
-                        <select id="minutos" name="minutos">
-                          <option value="1 minuto">1 MINUTOS</option>
-                          <option value="2 minutos">2 MINUTOS</option>
-                          <option value="3 minutos">3 MINUTOS</option>
-                          <option value="4 minutos">4 MINUTOS</option>
-                          <option value="5 minutos">5 MINUTOS</option>
-                          
-                        </select>
-                    </div>
+                   
 
                     <div class="potencia">
                         
-                    <label>CUSTO/MÊS:</label>
-                    <input type="text"  name="user" required />
-                    <label>TARIFA:</label>
-                    <input type="text"  name="user" required />
-
+                        <div class="tempodeuso">
+                            <label for="tempo de uso">TEMPO DE USO:</label>
+                            <select id="dias" name="dias">
+                                <option value="1 dia">1 DIA</option>
+                                <option value="2 dias">2 DIAS</option>
+                                <option value="3 dias">3 DIAS</option>
+                                <option value="4 dias">4 DIAS</option>
+                                <option value="5 dias">5 DIAS</option>
+                                <option value="6 dias">6 DIAS</option>
+                                <option value="7 dias">7 DIAS</option>
+                                <option value="8 dias">8 DIAS</option>
+                                <option value="9 dias">9 DIAS</option>
+                                <option value="10 dias">10 DIAS</option>
+                                <option value="11 dia">11 DIA</option>
+                                <option value="12 dias">12 DIAS</option>
+                                <option value="13 dias">13 DIAS</option>
+                                <option value="14 dias">14 DIAS</option>
+                                <option value="15 dias">15 DIAS</option>
+                                <option value="16 dias">16 DIAS</option>
+                                <option value="17 dias">17 DIAS</option>
+                                <option value="18 dias">18 DIAS</option>
+                                <option value="19 dias">19 DIAS</option>
+                                <option value="20 dias">20 DIAS</option>
+                                <option value="21 dia">21 DIA</option>
+                                <option value="22 dias">22 DIAS</option>
+                                <option value="23 dias">23 DIAS</option>
+                                <option value="24 dias">24 DIAS</option>
+                                <option value="25 dias">25 DIAS</option>
+                                <option value="26 dias">26 DIAS</option>
+                                <option value="27 dias">27 DIAS</option>
+                                <option value="28 dias">28 DIAS</option>
+                                <option value="29 dias">29 DIAS</option>
+                                <option value="30 dias">30 DIAS</option>
+                                <option value="31 dias">31 DIAS</option>
+                                
+                              </select>
+                            <select id="horas" name="horas">
+                              <option value="1 hora">1 HORA</option>
+                              <option value="2 horas">2 HORAS</option>
+                              <option value="3 horas">3 HORAS</option>
+                              <option value="4 horas">4 HORAS</option>
+                              <option value="5 horas">5 horas</option>
+                              <option value="6 horas">6 HORAS</option>
+                              <option value="7 horas">7 HORAS</option>
+                              <option value="8 horas">8 HORAS</option>
+                              <option value="9 horas">9 HORAS</option>
+                              <option value="10 horas">10 HORAS</option>
+                              <option value="11 horas">11 HORAS</option>
+                              <option value="12 horas">12 HORAS</option>
+                              <option value="13 horas">13 HORAS</option>
+                              <option value="14 horas">14 horas</option>
+                              <option value="15 horas">15 HORAS</option>
+                              <option value="16 horas">16 HORAS</option>
+                              <option value="17 horas">17 HORAS</option>
+                              <option value="18 horas">18 HORAS</option>
+                              <option value="19 horas">19 HORAS</option>
+                              <option value="20 horas">20 HORAS</option>
+                              <option value="21 horas">21 HORAS</option>
+                              <option value="22 horas">22 HORAS</option>
+                              <option value="23 horas">23 HORAS</option>
+                              <option value="24 horas">24 HORAS</option>
+    
+    
+                            </select>
+                            
+                            <select id="minutos" name="minutos">
+                              <option value="00 minuto">00 MINUTOS</option>
+                              <option value="15 minuto">15 MINUTOS</option>
+                              <option value="30 minutos">30 MINUTOS</option>
+                              <option value="45 minutos">45 MINUTOS</option>
+                              
+                              
+                             
+                              
+                            </select>
+                            <div class="customes">
+                              <label for="customes">CUSTO/MÊS:</label> 
+                              <input type="text"  name="user" required />
+                              <label for="tarifa">TARIFA:</label> 
+                              <input type="text"  name="user" required />
+                            </div>
+                        </div>
+                   
+                   
 
 
                     <button onclick="window.location.href = 'indexLogin-uai.html'" type="submit">
@@ -144,19 +204,12 @@
         
 
 
-        <div class="btn2"> REGISTRE AQUI  </div>               
-                                                   
-        
-
-           
-
-                <div class="btn"> USUÁRIO    </div>               
+            <div class="retangulo"><img src="IMAGEM/CÔMODOS MENU.png" alt="menu"></div>      
                                                    
                
                 
          
-                <div class="btn3"> CONSUMO  </div>    
-                <div class="btn4">REGISTRO  </div>            
+                           
                                                    
                
 
