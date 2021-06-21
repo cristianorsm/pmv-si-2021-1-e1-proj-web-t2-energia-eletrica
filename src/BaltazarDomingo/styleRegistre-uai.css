@@ -17,7 +17,7 @@ Body {
 button {
   background-color: #4caf50;
   width: 100%;
-  color: orange;
+  color: white;
   padding: 15px;
   margin: 10px 0px;
   border: none;
@@ -28,6 +28,9 @@ form {
   border: 10px solid white;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+  width: 650PX;
+  height: 450px;
+  background-color: white;
 }
 input[type="text"],
 input[type="password"] {
@@ -50,6 +53,10 @@ button:hover {
 .container {
   padding: 25px;
   background-color: lightblue;
+  font-family: "Mulish";
+  font-weight: bold;
+  border-radius: 8px;
+  height: 400px;
 }
 
 header {
@@ -63,10 +70,14 @@ header {
   /* background-color: rgba(10, 137, 177, 0.25); */
 }
 
-.logo {
-  float: left;
-  max-width: 200px;
-  max-height: 150px;
+.Logo {
+  position: absolute;
+  width: 530px;
+  height: 3436px;
+  left: -20pt;
+  top: -40pt;
+  background: url("Logo.png") no-repeat;
+  z-index: 5;
 }
 main {
   width: 648px;
@@ -77,12 +88,13 @@ main {
 }
 
 main h1 {
-  color: darkgreen;
+  color: green;
   /* background-color: #f1f1f1; */
   background-color: white;
   margin-bottom: 0;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
+  width: 650px;
 }
 footer {
   position: absolute;

@@ -1,10 +1,12 @@
 /* Estilo indexcontadeluz-uai.html */
+
 * {
   box-sizing: border-box;
   margin: 0;
   max-height: 1024px;
   max-width: 1440px;
 }
+
 Body {
   font-family: "mulish";
   background-color: white;
@@ -13,33 +15,6 @@ Body {
   background-repeat: no-repeat;
   /* background-size: 100% auto; */
   background-size: 842px 902px;
-}
-
-.menu {
-  width: 100%;
-}
-.menu ul {
-  margin-top: 0px;
-  text-align: center;
-  border: 2px solid darkgreen;
-  background: rgba(194, 226, 236, 0.77);
-  opacity: 0.7;
-  width: 842px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.menu ul li {
-  display: inline;
-  padding: 250px 20px;
-}
-.menu ul li a {
-  color: darkgreen;
-  text-decoration: none;
-}
-
-.menu ul li a:hover {
-  text-decoration: underline;
 }
 
 main {
@@ -51,7 +26,69 @@ main {
   height: 465px;
 }
 
+.block1 {
+  height: 70px;
+  mix-blend-mode: normal;
+  width: 208px;
+  position: absolute;
+  left: 891px;
+  top: 130px;
+  background-color: rgba(194, 226, 236, 0.77);
+  border: 1px solid #F8F8F8;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.block2 {
+  height: 70px;
+  mix-blend-mode: normal;
+  width: 208px;
+  position: absolute;
+  left: 1156px;
+  top: 130px;
+  background-color: rgba(194, 226, 236, 0.77);
+  border: 1px solid #F8F8F8;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.Usuario {
+  height: 25px;
+  mix-blend-mode: normal;
+  width: 111px;
+  position: absolute;
+  left: 940px;
+  top: 150px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #008037;
+  text-decoration: none;
+}
+
+.Registre {
+  height: 54px;
+  mix-blend-mode: normal;
+  width: 116px;
+  position: absolute;
+  left: 1196px;
+  top: 140px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #008037;
+  text-decoration: none;
+  text-align: center;
+}
+
 /* Lado a lado*/
+
 .column {
   float: left;
   width: 45%;
@@ -63,6 +100,7 @@ main {
 }
 
 /* Posicioanr na tela */
+
 .row {
   margin: 80px 60px;
   display: block;
@@ -71,6 +109,7 @@ main {
 }
 
 /* Ficar alinhado a esquerda */
+
 .row:after {
   content: "";
   display: table;
@@ -78,6 +117,7 @@ main {
 }
 
 /* Box do texto deo card */
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -118,6 +158,7 @@ main {
 }
 
 /* Coluna pesponsiva */
+
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
@@ -146,13 +187,18 @@ header h1 {
   margin-right: auto; */
   width: 1220px;
   text-align: center;
+  
 }
 
-.logo {
-  float: left;
-  max-width: 200px;
-  max-height: 150px;
+.Logo {
+  position: absolute;
+  width: 530px;
+  height: 3436px;
+  left: -20pt;
+  top: -10pt;
+  z-index: 5;
 }
+
 footer {
   /* position: fixed; */
   position: absolute;

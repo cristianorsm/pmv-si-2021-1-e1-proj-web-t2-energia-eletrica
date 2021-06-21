@@ -1,10 +1,12 @@
 /* Estilo indexLogin-uai.html */
+
 * {
   box-sizing: border-box;
   margin: 0;
   max-height: 1024px;
   max-width: 1440px;
 }
+
 Body {
   font-family: "mulish";
   background-color: white;
@@ -14,23 +16,28 @@ Body {
   /* background-size: 100% auto; */
   background-size: 842px 902px;
 }
+
 button {
   background-color: #4caf50;
   width: 100%;
-  color: orange;
+  color: white;
   padding: 15px;
   margin: 10px 0px;
   border: none;
   cursor: pointer;
 }
+
 form {
   /* border: 10px solid #f1f1f1; */
   border: 10px solid white;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+  width: 650PX;
+  height: 450px;
+  background-color: white;
 }
-input[type="text"],
-input[type="password"] {
+
+input[type="text"], input[type="password"] {
   width: 100%;
   margin: 8px 0;
   padding: 12px 20px;
@@ -38,9 +45,11 @@ input[type="password"] {
   border: 2px solid green;
   box-sizing: border-box;
 }
+
 button:hover {
   opacity: 0.7;
 }
+
 .cancelbtn {
   width: auto;
   padding: 10px 18px;
@@ -50,6 +59,10 @@ button:hover {
 .container {
   padding: 25px;
   background-color: lightblue;
+  border-radius: 8px;
+  height: 400px;
+  font-family: "Mulish";
+  font-weight: bold;
 }
 
 header {
@@ -63,10 +76,14 @@ header {
   /* background-color: rgba(10, 137, 177, 0.25); */
 }
 
-.logo {
-  float: left;
-  max-width: 200px;
-  max-height: 150px;
+.Logo {
+  position: absolute;
+  width: 530px;
+  height: 3436px;
+  left: -20pt;
+  top: -40pt;
+  background: url("Logo.png") no-repeat;
+  z-index: 5;
 }
 
 main {
@@ -76,18 +93,21 @@ main {
   margin-right: auto;
   margin-top: 145px;
 }
+
 /* header h1 {
   color: darkgreen;
 } */
 
 main h1 {
-  color: darkgreen;
+  color: green;
   /* background-color: #f1f1f1; */
   background-color: white;
   margin-bottom: 0;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
+  width: 650px;
 }
+
 footer {
   /* position: fixed; */
   position: absolute;
