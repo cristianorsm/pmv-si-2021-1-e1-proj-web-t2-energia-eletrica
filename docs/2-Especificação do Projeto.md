@@ -40,17 +40,14 @@ Os requisitos funcionais da Aplicação da Web, são aqueles que especificam as 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
-|RNF-01 | O sistema deverá permitir o usuário consultar os modelos de aparelhos eletrônicos residenciais e adicionar aparelhos inexistentes | ALTA | 
-|RNF-02 | A seleção do exemplo do aparelho eletrônico, no sistema, requererá a inclusão da: a) Quantidade de aparelhos; b) Tempo de Uso de horas/dia; c) Potência; d) Opções de aparelhos mais comuns sugeridos; o cadastro de aparelhos inexistentes, no sistema, requererá a inclusão: a) Nome do aparelho; b) Quantidade; c) Tempo de uso, horas/dia; d) Potência; | ALTA | 
+|RNF-01 | O sistema deverá permitir o usuário consultar os modelos de aparelhos eletrônicos residenciais | ALTA | 
+|RNF-02 | A seleção do exemplo do aparelho eletrônico, no sistema, requererá a inclusão da: a) Quantidade de aparelhos; b) Tempo de Uso de horas/dia; c) Potência; | ALTA | 
 |RNF-03 | O sistema apresentará um menu de acesso ao usuário com subdivisões por cômodos: a) Sala; b) Quarto; c) Cozinha; d) Escritório; e) Banheiro; f) Lavanderia; g) Garagem; h) Área externa | ALTA |
-|RNF-04 | O registro do usuário, com a geração de um _Login_ e Senha requererá: a) Nome; b) Idade; c) Sexo; d) Localização (Bairro, Cidade e Estado), e) Profissão; f) endereço eletrônico. As funções que permitem a geração de dados diários/mensais e suas alterações no sistema, deverão apenas estar acessíveis/visíveis quando for inserida um _login_ e uma senha válidos | ALTA |
+|RNF-04 | O registro do usuário, com a geração de um _Login_ e Senha requererá: a) Nome; b) Email; c) Senha; | ALTA |
 |RNF-05 | O sistema deverá permitir gerenciar dados de usuários | ALTA |
 |RNF-06 | O sistema apresentará um Menu com informativos sobre como é cobrada a conta de energia elétrica | ALTA |
 |RNF-07 | A _interface_ básica, além de disponibilizar funcionalidades para a já referida consulta de aparelhos eletrônicos, deve incluir opções para acesso ao sistema (para utilizadores autorizados) e registro de novos utilizadores | ALTA |
-|RNF-08 | Existem três tipos de utilizadores com níveis de permissão diferentes: Utilizador registrado, Utilizador não registrado e Utilizador tipo administrador | ALTA |
-|RNF-09 | O utilizador registrado tem acesso livre ao sistema e pode registrar e consultar dados. Além de gerir dados pessoais, diários ou mensais, de consumo elétrico, associados a cada aparelho elétrico ou por cômodos da residência, em formato de relatórios. Os relatórios devem exibir funções que permitam a inserção e eliminação de itens. As características relevantes de cada item devem ser consideradas na _interface_ | ALTA |
-|RNF-10 | O utilizador tipo administrador depois de acessar o sistema mediante um controlo de acesso válido poderá gerir uma lista de usuários e aparelhos eletrônicos. Para a lista devem existir funções que permitam a inserção e eliminação de itens. As características relevantes de cada item devem ser consideradas na _interface_ | ALTA |
-|RNF-11 | O utilizador administrador poderá criar outros utilizadores administradores | MÉDIA |
+
 
 ### **Requisitos não Funcionais**
 
@@ -62,7 +59,6 @@ Os Requisitos não funcionais da Aplicação de Web são relacionados com a form
 |RNF-01 | A aplicação deverá ter uma boa usabilidade | ALTA |
 |RNF-02 | O acesso ao sistema deverá ficar registrado num ficheiro de _log_ | ALTA |
 |RNF-03 | O sistema deverá garantir a confiabilidade e a integridade das informações, sendo fundamental, também, a proteção das informações contra acessos não autorizados | ALTA |
-|RNF-04 | O tempo de resposta à solicitação de um serviço específico de um usuário deverá ter um intervalo de 2 segundos | ALTA |
 
 ## **Restrições**
 

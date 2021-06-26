@@ -36,9 +36,7 @@ Objetivos Específicos:
  
 * Fornecer métricas que auxiliem ao usuário a adequação do consumo de energia elétrica em seu domicílio de acordo com os limites das bandeiras tarifárias;
  
-* Conscientizar sobre a economia elétrica em escala;
- 
- * Promover educação do usuário através de documentos que irão facilicitar na compreensão dos serviços prestados pela concessionária e distribuidoras de energia elétrica.
+* Promover educação do usuário através de documentos que irão facilicitar na compreensão dos serviços prestados pela concessionária e distribuidoras de energia elétrica.
 
 ## **Justificativa**
 
@@ -50,8 +48,8 @@ Observa-se então que a região Sudeste engloba de forma significativa porcentag
 
 Sobre o quesito do consumo residencial, a propagação da Covid-19 apresentou diversos reflexos na economia do país, como o aumento dos reajustes tarifários e no consumo residencial. Com mais pessoas em casa em razão da pandemia, o consumo de energia residencial cresceu 4,1%, para 148.223 GWh. Ou seja, esse foi o único segmento que registrou crescimento em 2020. Portanto, medidas voltadas para a redução do consumo de energia nunca foram tão necessárias para a economia individual além de contribuir invariavelmente para o meio ambiente[5].
 
-A aplicação da Web Uai-Energy, facilitaria no conhecimento de cada aparelho eletrônico na residência. O usuário selecionaria os equipamentos, por cômodos ou de forma individual, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). 
-Ao final, a aplicação da web, baseando-se nesses valores, calcularia o consumo total por cômodos ou o consumo por aparelho eletroeletrônico, além de dispor de informações de uso eficiente. Essas informações seriam providas por documentos sobre como otimizar o uso diário dos eletrônicos, com mudanças nos hábitos, como por exemplo, a valorização da iluminação natural, a substituição da lâmpada comum para a de Led e a remoção de aparelhos eletrônicos da tomada.
+A aplicação da Web Uai-Energy, facilitaria no conhecimento de cada aparelho eletrônico na residência. O usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos. Esses valores são definidos e homologados pela Agência Nacional de Energia Elétrica (Aneel). 
+Ao final, a aplicação da web, baseando-se nesses valores, calcularia o consumo total.
 
 Embora todas as pessoas possam se beneficiar de soluções para a moderação do uso de energia elétrica, na residência, o foco deste trabalho é o consumidor responsável pelo orçamento familiar. O intuito é disponibilizar uma ferramenta de fácil uso, informativa que promoveria o uso consciente dos aparelhos à base de energia elétrica, residenciais.
 
