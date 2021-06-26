@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uai Energy</title>
+    <title>Uai Energy-Sala</title>
     <link rel="stylesheet" href="salastyle.css">
     <meta charset="UTF-8">
 </head>
@@ -24,7 +24,7 @@
                     <button type="button" class="block2"></button>
                     <button type="button" class="block3"></button>
                     <li>
-                        <a class="Usuário" href="/src/BaltazarDomingo/indexLogin-uai.html">USUÁRIO</a>
+                        <a class="Usuário" href="/src/BaltazarDomingo/indexLogon.html">USUÁRIO</a>
                         <a class="Registre" href="/src/BaltazarDomingo/indexRegistre-uai.html">REGISTRE AQUI</a>
                         <a class="SALA" href="#">SALA</a>
                     </li>
@@ -38,17 +38,17 @@
                 <div class="Retângulo"> <img src="images/CÔMODOS MENU.png" alt=""></div>
                 <div class="hero-content">
                     <ul class="hero-items">
-                        <a href="/src/RM Cômodos/comodos.html" type="button" class="telefone"></a>
-                        <a href="/src/RM Cômodos/comodos.html" type="button" class="televisao"></a>                        
-                        <button type="button" class="game"></button>
-                        <button type="button" class="dvd"></button>
-                        <button type="button" class="theater"></button>
-                        <button type="button" class="som"></button>
-                        <button type="button" class="ventilador"></button>
-                        <button type="button" class="teto"></button>
-                        <button type="button" class="ar"></button>
-                        <button type="button" class="iluminacao"></button>
-                        <button type="button" class="luminaria"></button>
+                        <a href="/src/Robert/comodos.html" type="button" class="telefone" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="televisao" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="game" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="dvd" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="theater" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="som" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="ventilador" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="teto" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="ar" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="iluminacao" onclick="openForm()"></a>
+                        <a href="/src/Robert/comodos.html" type="button" class="luminaria" onclick="openForm()"></a>
                     </ul>
 
                     <div class="Layout"> <img src="images/Layoutsala.png" alt="Layout"> </div>
@@ -56,6 +56,21 @@
             </header>
         </div>
     </div>
+    <script>
+        function openForm() {
+            document.getElementsByClassName("telefone").write = "Telefone";
+            document.getElementById("apa").style.display = "block";
+            document.getElementById("quanti").style.display = "block";
+            document.getElementById("tempodeuso").style.display = "block";
+            document.getElementById("quilo").style.display = "block";
+            document.getElementById("customes").style.display = "block";
+            document.getElementById("adicionar").style.display = "none";
+            document.getElementById("fechar").style.display = "block";
+
+
+
+        }
+    </script>
 </body>
 <footer>
     <div class="Footer">
