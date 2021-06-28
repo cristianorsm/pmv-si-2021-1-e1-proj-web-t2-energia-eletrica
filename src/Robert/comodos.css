@@ -20,7 +20,7 @@ body {
     height: 293px;
     left: 0.0px;
     margin-top: 0.0px;
-    background: url(/IMAGEM/logo.png);
+    background: url(/src/Robert/IMAGEM/logo.png);
 }
 
 .fundo {
@@ -31,7 +31,7 @@ body {
     width: 842px;
     margin-top: 1px;
     border-radius: 97px;
-    background-image: url(/IMAGEM/capaaaaaaaaaa\ \(1\)\ 1.png);
+    background-image: url(/src/Robert/IMAGEM/capaaaaaaaaaa\ \(1\)\ 1.png);
 }
 
 .cabecalho {
@@ -127,7 +127,7 @@ body {
     width: 116px;
     position: absolute;
     left: 1196px;
-    top: 145px;
+    top: 140px;
     font-family: "Mulish";
     font-style: normal;
     font-weight: bold;
@@ -291,7 +291,7 @@ h1 {
 
 #custo {
     position: absolute;
-    left: 115px;
+    left: 135px;
     top: 65px;
 }
 
@@ -303,13 +303,13 @@ h1 {
 
 #tarifa1 {
     position: absolute;
-    left: 315px;
+    left: 335px;
     top: 65px;
 }
 
 #tarifa {
     position: absolute;
-    left: 415px;
+    left: 435px;
     top: 65px;
 }
 
@@ -351,6 +351,20 @@ main {
     font-size: 18px;
     align-items: center;
     text-align: center;
+}
+
+.adicionar2 {
+    width: 200px;
+    padding: 20px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    border: solid 1px;
+    top: 700px;
+    position: absolute;
+    left: 570px;
+    height: 50px;
 }
 
 #fechar {
@@ -410,6 +424,11 @@ button:hover {
 
 .potencia {
     display: inline;
+}
+
+#watt {
+    display: inline;
+    font-weight: bold;
 }
 
 .aparelho {

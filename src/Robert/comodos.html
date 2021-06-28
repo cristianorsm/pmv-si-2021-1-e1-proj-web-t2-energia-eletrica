@@ -14,7 +14,7 @@
 <body>
 
     <div class="fundo">
-        <img src="IMAGEM/capaaaaaaaaaa (1) 1.png" alt="capa">
+        <img src="/src/Robert/IMAGEM/capaaaaaaaaaa (1) 1.png" alt="capa">
     </div>
 
     <header class="cabecalho">
@@ -48,7 +48,7 @@
         <div class="registro">
             <h1>APARELHOS ELETROELETRÔNICOS</h1>
         </div>
-        <form id="form" class="formulario" method="POST">
+        <form name="form" class="formulario" method="POST" action="">
             <div id="como" class="comodo">
                 <label for="comodo">CÔMODO:</label>
                 <select id="comodo" name="comodo">
@@ -192,28 +192,27 @@
             <div id="quilo" class="quilo">
                 <label for="potencia">POTÊNCIA:</label>
                 <input id="potencia" type="text" name="potencia" />
-                <select id="watt" name="watt">
-                    <option selected disabled value=""></option>
-                    <option value="watt">W</option>
-                    <option value="quilowatt">Kw</option>
-
-
-                </select>
+                <option id="watt" name="watt" value="quilowatt">KW/h</option>
 
                 <div id="customes" class="customes" style="display:none">
-                    <label id="custo1" for="customes">CUSTO/MÊS:</label>
-                    <input id="custo" type="text" name="user" />
+                    <label id="custo1" for="customes">CUSTO/MÊS: R$</label>
+                    <input id="custo" type="text" name="custo" />
+
+
                     <label id="tarifa1" for="tarifa">TARIFA:</label>
                     <input id="tarifa" type="text" name="user" value="0,727870" />
                 </div>
             </div>
 
 
+
+
         </form>
-        <button id="adicionar" class="adicionar" onclick="openForm();">ADICIONAR</button>
+        <button id="adicionar" class="adicionar" onclick="openForm(); calcular(document.form.custo.value);">ADICIONAR</button>
         <button id="fechar" type="submit" class="cancel" style="display: none;" onclick="window.location.href='comodos.html'">FECHAR</button>
         <script>
             function openForm() {
+
                 document.getElementById("como").style.display = "block";
                 document.getElementById("apa").style.display = "block";
                 document.getElementById("quanti").style.display = "block";
@@ -224,29 +223,24 @@
                 document.getElementById("fechar").style.display = "block";
 
 
-
             }
 
-            function calculate() {
-                var potencia = document.getElementById("potencia").value;
-                var horas = document.getElementById("horas").value;
-                var minutos = document.getElementById("minutos").value;
-                var quantidade = document.getElementById("quantidade").value;
-                var tarifa = document.getElementById("tarifa").value;
-                var num = 1000;
+            function calcular(horas, minutos, tarifa, potencia) {
+
+                var tarifa = document.form.tarifa.value;
+                var potencia = document.form.potencia.value;
+                var horas = document.form.horas.value;
+                var minutos = document.form.minutos.value;
+                var custo = parseInt(horas) + parseInt(minutos) + parseInt(potencia) * parseInt(tarifa);
 
 
-                if (potencia != "") {
-                    var potencia = document.getElementById('potencia').value = quantidade * horas * minutos;
-                }
+                document.form.custo.value = custo;
             }
-
-            let a = value;
-            document.getElementById("custo").innerHTML = (a * b * c) * d * e.display.number;
         </script>
 
         <div class="retangulo" onclick.href="/src/Maria Clara/indexmenucomodos.html">
-            <img src="IMAGEM/CÔMODOS MENU.png"></div>
+            <img src="IMAGEM/CÔMODOS MENU.png">
+        </div>
     </div>
 
 </body>
