@@ -43,7 +43,7 @@ layouts:
 ● Tela Consulta Registros
 
 
-Tela - Home-Page: A tela de home-page mostra os Menus de acesso ao Sistema, "Entre aqui" para realizar o Log In; "Registre aqui" para o registro de um usuário novo; "Simulador de Consumo" para iniciar a simulação e inclusão de dados no sistema referentes ao controle de consumo de energia; e "Entenda sua conta de Luz", menu de informação sobre a conta de luz.
+Tela - Home-Page: A tela de home-page mostra os Menus de acesso ao Sistema, "Login" para realizar o Log In; "Registre aqui" para o registro de um usuário novo; "Simulador de Consumo" para iniciar a simulação e inclusão de dados no sistema referentes ao controle de consumo de energia; e "Entenda sua conta de Luz", menu de informação sobre a conta de luz.
 ![padraolayout](https://user-images.githubusercontent.com/61883996/123718733-52086100-d856-11eb-9020-89d8341731f5.png)
 
 Tela -  Crie sua conta: Tela para registro de um novo usuário no sistema.
