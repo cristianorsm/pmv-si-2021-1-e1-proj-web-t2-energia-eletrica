@@ -47,6 +47,6 @@ Utilizou-se também o Git que é um sistema de controle de versões, usado princ
 
 Assim como está acontecendo com as ferramentas de desenvolvimento, a estrutura de hospedagem do nosso site está baseada em plataforma gratuita de hospedagem.
 Partindo deste princípio a nossa aplicação será hospedada no Heroku. Plataforma de hospedagem em nuvem que suporta várias linguagens de programação.
-Enderção da aplicação:  www.herruko.aienergy.com.br
+Endereço da aplicação:  www.herruko.uaienergy.com.br
 
 Para o _deploy_ o Heroku utiliza o Git.
