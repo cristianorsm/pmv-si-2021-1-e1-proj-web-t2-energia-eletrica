@@ -19,7 +19,9 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 
+
 1. Visão Geral - TESTE DE FUNCIONALIDADE
+
 
 1.1	Objetivo
 
@@ -29,6 +31,7 @@ Este documento de Plano de Testes tem como objetivo listar os Requisitos que ser
 
 Trata-se da aplicação Web denominada UaiEnergy, desenvolvida baseda nas linguagens HTML, CSS e JavaScript. Nesta aplicação, o usuário, após seu registro inicial, é capaz de introduzir dados básicos dos aparelhos eletrônicos utilizados em sua residência que proporcionariam um cálculo total do consumo de energia elétrica naquele domicílio.
 Assim, aplicação da Web Uai-Energy, visa facilitar o conhecimento do gasto energético de cada aparelho eletrônico em uma residência. Ao utilizar aplicação UaiEnergy, usuário selecionaria os equipamentos, por cômodos, informando a potência e o tempo de uso dos aparelhos. Essas informações serão interligadas com as variações das tarifas econômicas e financeiras de energia, considerando que o total da fatura em Real (R$) é resultado da multiplicação da energia consumida (medida em quilowatt hora) no mês pela tarifa aplicada, acrescido de taxas e impostos.
+
 
 2.	ESCOPO
 
@@ -44,9 +47,11 @@ Desta forma, foram apresentados os seguintes Casos de Teste (CT):
 - CT – 06 – Visualizar informações de educação em Entenda sua Conta
 - CT – 07 – Visualizar tela de início
 
+
 3.	RESUMO DOS TESTES PLANEJADOS
 
 Este planejamento de testes diz respeito a fase de testes de funcionalidade. Sendo utilizados para sua confecção os requisitos apresentados no documento de Especificação de Projeto e além de dados do Projeto de Interface.
+
 
 4.	CATEGORIAS DE TESTES
 
@@ -63,6 +68,7 @@ No caso da aplicação web UAiEnergy,os  requisitos básicos para realização d
 Os testes de funcionalidades a serem realizados na aplicação desenvolvida foram propostos de acordo com os requisitos funcionais já mencionados no documento de Especificação do Projeto. Os casos de testes planejados são descritos a seguir.
 
 Caso de Teste:	CT – 01 – Acesso e registro inicial do usuário
+
 Requisito Associado:	RF04 - O registro do usuário, com a geração de um Login e Senha requererá: a) Nome; b) Email; c) Senha;
 Objetivo do Teste:	Verificar se o registro do usuário acontece adequadamente
 Passos:
@@ -73,6 +79,7 @@ Critérios de Êxito:	- Conta será criada e usuária encaminhado à tela de Log
 
 
 Caso de Teste:	CT – 02 – Gerenciamento de dados do usuário
+
 Requisito Associado:	RF05 - O sistema deverá permitir gerenciar dados de usuários
 Objetivo do Teste:	Verificar se o registro do usuário pode alterar seus dados de registro de aparelhos eletrônicos
 Passos:
@@ -83,6 +90,7 @@ Critérios de Êxito:	- Usuário identificará alterações de valores de consum
 
 
 Caso de Teste:	CT – 03 – Seleção do aparelho eletrônico a ser registrado
+
 Requisito Associado:	RF02 - A seleção do exemplo do aparelho eletrônico, no sistema, requererá a inclusão da: a) Quantidade de aparelhos; b) Tempo de Uso de horas/dia; c) Potência;
 Objetivo do Teste:	Verificar se o registro dos aparelhos ocorre corretamente
 Passos:
@@ -93,6 +101,7 @@ Critérios de Êxito:	- Usuário identificará alterações de valores de consum
 
 
 Caso de Teste:	CT – 04 – Consulta dos aparelhos eletrônicos residenciais
+
 Requisito Associado:	RF01 - O sistema deverá permitir o usuário consultar os modelos de aparelhos eletrônicos residenciais
 Objetivo do Teste	Verificar se o usuário pode consultar os aparelhos registrados distribuídos por cômodos em sua residencia
 Passos:
@@ -104,6 +113,7 @@ Critérios de Êxito:	- Usuário deve ser capaz de selecionar os aparelhos suger
 
 
 Caso de Teste:	CT – 05 – Acesso ao menu de cômodos
+
 Requisito Associado:	RF03 - O sistema apresentará um menu de acesso ao usuário com subdivisões por cômodos: a) Sala; b) Quarto; c) Cozinha; d) Escritório; e) Banheiro; f) Lavanderia; g) Garagem; h) Área externa
 Objetivo do Teste:	Verificar se o usuário pode consultar e selecionar o menu de cômodos
 Passos:
@@ -114,6 +124,7 @@ Critérios de Êxito:	- Usuário deve ser direcionado a tela seguinte com os apa
 
 
 Caso de Teste:	CT – 06 – Visualizar informações de educação em Entenda sua Conta
+
 Requisito Associado:	RF06 - O sistema apresentará um Menu com informativos sobre como é cobrada a conta de energia elétrica
 Objetivo do Teste:	Verificar se o usuário pode consultar e selecionar o menu de cômodos
 Passos:
@@ -124,6 +135,7 @@ Critérios de Êxito:	- Ao clicar nos botões Por Dentro da Conta de Luz e Como 
 
 
 Caso de Teste:	CT – 07 – Visualizar tela de início
+
 Requisito Associado:	RF07 - A interface básica, além de disponibilizar funcionalidades para a já referida consulta de aparelhos eletrônicos, deve incluir opções para acesso ao sistema (para utilizadores autorizados) e registro de novos utilizadores
 Objetivo do Teste:	Verificar se o usuário pode consultar e selecionar o menu de cômodos
 Passos:
@@ -132,8 +144,11 @@ Passos:
 3 – Visualizar a página de inicio – o botão Entenda sua Conta deve fornecer material disponível para usuários não registrados
 Critérios de Êxito:	- A página inicial deve ser aberta com os seguintes botões disponíveis: Entenda sua Conta, Simulado de Consumo, Entre Aqui, Registre Aqui
 
+
 5.	FLUXO DE TRABALHO DE TESTE
+
 Todos os testes de funcionalidade serão realizados individualmente e em conjunto por toda a equipe responsável pelo seu desenvolvimento. Isto é, todos os três integrantes atuais do projeto são responsáveis pela testagem e por sugerir eventuais ajustes. Deve sempre observar as especificações do projeto para propor ajustes ou correções. 
+
 
 6.	CRONOGRAMA E MARCOS DO PROJETO
 
