@@ -16,23 +16,23 @@ A tela inicial permite que o usuário possa se cadastrar para ter acesso ao sist
 
  
 
-Requisitos atendidos  
+Requisitos atendidos:RNF-04 
 
-RNF-04 
+
 
  
 
  Artefatos da funcionalidade  
 
- indexLogin-uai.html  
+ 1.indexLogin-uai.html  
 
-indexRegistre-uai.html 
+2.indexRegistre-uai.html 
 
- styleRegistre-uai.css 
+ 3.styleRegistre-uai.css 
 
-styleRegistre-uai.css 
+4.styleRegistre-uai.css 
 
-javascript 
+5.javascript 
 
  
 
@@ -58,19 +58,17 @@ A tela do menu permite o usuario escolher o cômodo   e em seguida escolher o ap
 
  
 
-Requisitos atendidos  
-
-RNF-03 
+Requisitos atendidos: RNF-03 
 
  
 
  Artefatos da funcionalidade  
 
-indexmenucomodos.html 
+1.indexmenucomodos.html 
 
-stylemenucomodos.css 
+2.stylemenucomodos.css 
 
-javascript 
+3.javascript 
 
 Instruções de acesso 
 
@@ -88,17 +86,15 @@ Aparelho A tela disponibiliza informações para que o usuario possa se informar
 
  
 
-Requisitos atendidos  
-
-RNF-06 
+Requisitos atendidos:RNF-06 
 
  
 
- Artefatos da funcionalidade  
+ 1.Artefatos da funcionalidade  
 
-indexContadeluz-uai.html 
+2.indexContadeluz-uai.html 
 
-styleContadeluz-uai.css 
+3.styleContadeluz-uai.css 
 
 Instruções de acesso 
 
