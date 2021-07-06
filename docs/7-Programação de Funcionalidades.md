@@ -64,11 +64,11 @@ Requisitos atendidos: RNF-03
 
  Artefatos da funcionalidade  
 
-1.indexmenucomodos.html 
+- indexmenucomodos.html 
 
-2.stylemenucomodos.css 
+- stylemenucomodos.css 
 
-3.javascript 
+- javascript 
 
 Instruções de acesso 
 
@@ -90,11 +90,11 @@ Requisitos atendidos:RNF-06
 
  
 
- 1.Artefatos da funcionalidade  
+- Artefatos da funcionalidade  
 
-2.indexContadeluz-uai.html 
+- indexContadeluz-uai.html 
 
-3.styleContadeluz-uai.css 
+- styleContadeluz-uai.css 
 
 Instruções de acesso 
 
