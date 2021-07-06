@@ -2,9 +2,109 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso, a seguir apresentaremos as telas requisitos funcionais: 
+
+Registre-se e Login (RNF-04) 
+
+ 
+
+A tela inicial permite que o usuário possa se cadastrar para ter acesso ao sistema.  
+
+ 
+
+ 
+
+Requisitos atendidos  
+
+RNF-04 
+
+ 
+
+ Artefatos da funcionalidade  
+
+ indexLogin-uai.html  
+
+indexRegistre-uai.html 
+
+ styleRegistre-uai.css 
+
+styleRegistre-uai.css 
+
+javascript 
+
+ 
+
+Instruções de acesso Registro 
+
+1. Abra um navegador de Internet e informe a seguinte URL: https: 
+
+2. A tela de registro é a primeira funcionalidade exibida pelo aplicativo para o usuário se registrar ou fazer login, informando o nome de usuário, um e-mail e criar uma senha. 
+
+Instruções de acesso login 
+
+1.O usuário devera informa o e-mail cadastrado e a senha para realizar o acesso. 
+
+ 
+
+Menu Cômodos (RNF-01, RNF-02 e RNF-03) 
+
+A tela do menu permite o usuario escolher o cômodo   e em seguida escolher o aparelho eletrônico. 
+
+ 
+
+ 
+
+ 
+
+Requisitos atendidos  
+
+RNF-03 
+
+ 
+
+ Artefatos da funcionalidade  
+
+indexmenucomodos.html 
+
+stylemenucomodos.css 
+
+javascript 
+
+Instruções de acesso 
+
+O sistema apresentará um menu de acesso ao usuário com subdivisões por cômodos O usuário deverá selecionar o cômodo e o aparelho eletrônico que deseja cadastrar 
+
+ 
+
+ 
+
+Entenda sua Conta de Luz (RNF-06) 
+
+ 
+
+Aparelho A tela disponibiliza informações para que o usuario possa se informar sobre a conta de luz. 
+
+ 
+
+Requisitos atendidos  
+
+RNF-06 
+
+ 
+
+ Artefatos da funcionalidade  
+
+indexContadeluz-uai.html 
+
+styleContadeluz-uai.css 
+
+Instruções de acesso 
+
+O sistema apresentará dois links   de acesso onde o primeiro link o usuário será redirecionado para uma cartilha informativa da INEEL sobre a conta de luz, o segundo link o usuário será guiado para um site onde ele poderá entender sobre a conta de luz. 
+
+ 
 
 > **Links Úteis**:
 >
