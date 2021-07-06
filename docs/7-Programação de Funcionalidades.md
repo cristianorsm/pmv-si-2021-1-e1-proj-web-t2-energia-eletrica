@@ -24,15 +24,15 @@ Requisitos atendidos:RNF-04
 
  Artefatos da funcionalidade  
 
- 1.indexLogin-uai.html  
+- indexLogin-uai.html  
 
-2.indexRegistre-uai.html 
+- indexRegistre-uai.html 
 
- 3.styleRegistre-uai.css 
+ - styleRegistre-uai.css 
 
-4.styleRegistre-uai.css 
+- styleRegistre-uai.css 
 
-5.javascript 
+- javascript 
 
  
 
